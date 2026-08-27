@@ -1,0 +1,3129 @@
+season,position,points,wins,driver_id,constructor
+1950,1,30,3,farina,Alfa Romeo
+1950,2,27,3,fangio,Alfa Romeo
+1950,3,24,0,fagioli,Alfa Romeo
+1950,4,13,0,rosier,Talbot-Lago
+1950,5,11,0,ascari,Ferrari
+1950,6,9,1,parsons,Kurtis Kraft
+1950,7,6,0,holland,Deidt
+1950,8,5,0,bira,Maserati
+1950,9,4,0,whitehead,Ferrari
+1950,10,4,0,chiron,Maserati
+1950,11,4,0,reg_parnell,Alfa Romeo
+1950,12,4,0,rose,Deidt
+1950,13,3,0,serafini,Ferrari
+1950,14,3,0,cabantous,Talbot-Lago
+1950,15,3,0,sommer,Ferrari
+1950,16,3,0,manzon,Simca
+1950,17,3,0,green,Kurtis Kraft
+1950,18,3,0,etancelin,Talbot-Lago
+1950,19,2,0,bonetto,Maserati
+1950,20,1,0,chaboud,Talbot-Lago
+1950,21,1,0,bettenhausen,Kurtis Kraft
+1950,22,1,0,chitwood,Kurtis Kraft
+1950,,0,0,graffenried,Maserati
+1950,,0,0,gerard,ERA
+1950,,0,0,villoresi,Ferrari
+1950,,0,0,wallard,Moore
+1950,,0,0,pozzi,Talbot-Lago
+1950,,0,0,claes,Talbot-Lago
+1950,,0,0,levegh,Talbot-Lago
+1950,,0,0,harrison,ERA
+1950,,0,0,faulkner,Kurtis Kraft
+1950,,0,0,pagani,Maserati
+1950,,0,0,schell,Cooper
+1950,,0,0,george_connor,Lesovsky
+1950,,0,0,hampshire,Maserati
+1950,,0,0,crossley,Alta
+1950,,0,0,paul_russo,Nichels
+1950,,0,0,branca,Maserati
+1950,,0,0,shawe_taylor,Maserati
+1950,,0,0,fry,Maserati
+1950,,0,0,flaherty,Kurtis Kraft
+1950,,0,0,fohr,Marchese
+1950,,0,0,darter,Stevens
+1950,,0,0,hellings,Kurtis Kraft
+1950,,0,0,mcgrath,Kurtis Kraft
+1950,,0,0,ruttman,Lesovsky
+1950,,0,0,hartley,Langley
+1950,,0,0,davies,Ewing
+1950,,0,0,mcdowell,Kurtis Kraft
+1950,,0,0,walt_brown,Kurtis Kraft
+1950,,0,0,webb,Maserati
+1950,,0,0,hoyt,Kurtis Kraft
+1950,,0,0,ader,Rae
+1950,,0,0,holmes,Olson
+1950,,0,0,rathmann,Wetteroth
+1950,,0,0,murray,Maserati
+1950,,0,0,gonzalez,Maserati
+1950,,0,0,guy_mairesse,Talbot-Lago
+1950,,0,0,rol,Maserati
+1950,,0,0,kelly,Alta
+1950,,0,0,taruffi,Alfa Romeo
+1950,,0,0,martin,Talbot-Lago
+1950,,0,0,trintignant,Simca
+1950,,0,0,biondetti,Ferrari
+1950,,0,0,louveau,Talbot-Lago
+1950,,0,0,peter_walker,ERA
+1950,,0,0,rolt,ERA
+1950,,0,0,comotti,Maserati
+1950,,0,0,leslie_johnson,ERA
+1950,,0,0,pian,Maserati
+1950,,0,0,sanesi,Alfa Romeo
+1950,,0,0,banks,Maserati
+1950,,0,0,schindler,Snowberger
+1950,,0,0,pietsch,Maserati
+1950,,0,0,levrett,Adams
+1950,,0,0,cantrell,Adams
+1950,,0,0,agabashian,Kurtis Kraft
+1950,,0,0,jackson,Kurtis Kraft
+1950,,0,0,hanks,Kurtis Kraft
+1950,,0,0,dick_rathmann,Watson
+1950,,0,0,dinsmore,Kurtis Kraft
+1951,1,31,3,fangio,Alfa Romeo
+1951,2,25,2,ascari,Ferrari
+1951,3,24,1,gonzalez,Talbot-Lago
+1951,4,19,1,farina,Alfa Romeo
+1951,5,15,0,villoresi,Ferrari
+1951,6,10,0,taruffi,Ferrari
+1951,7,9,1,wallard,Kurtis Kraft
+1951,8,7,0,bonetto,Alfa Romeo
+1951,9,6,0,nazaruk,Kurtis Kraft
+1951,10,5,0,reg_parnell,Ferrari
+1951,11,4,1,fagioli,Alfa Romeo
+1951,12,3,0,sanesi,Alfa Romeo
+1951,13,3,0,rosier,Talbot-Lago
+1951,14,3,0,linden,Sherman
+1951,15,2,0,mcgrath,Kurtis Kraft
+1951,16,2,0,ayulo,Kurtis Kraft
+1951,17,2,0,graffenried,Alfa Romeo
+1951,18,2,0,cabantous,Talbot-Lago
+1951,19,2,0,ball,Schroeder
+1951,,0,0,chiron,Maserati
+1951,,0,0,fischer,Ferrari
+1951,,0,0,simon,Simca
+1951,,0,0,banks,Moore
+1951,,0,0,andre_pilette,Talbot-Lago
+1951,,0,0,manzon,Simca
+1951,,0,0,claes,Talbot-Lago
+1951,,0,0,forberg,Kurtis Kraft
+1951,,0,0,peter_walker,BRM
+1951,,0,0,levegh,Talbot-Lago
+1951,,0,0,etancelin,Talbot-Lago
+1951,,0,0,moss,HWM
+1951,,0,0,darter,Deidt
+1951,,0,0,chaboud,Talbot-Lago
+1951,,0,0,shawe_taylor,ERA
+1951,,0,0,guy_mairesse,Talbot-Lago
+1951,,0,0,whitehead,Ferrari
+1951,,0,0,rol,OSCA
+1951,,0,0,swaters,Talbot-Lago
+1951,,0,0,godia,Maserati
+1951,,0,0,gerard,ERA
+1951,,0,0,duncan_hamilton,Talbot-Lago
+1951,,0,0,schell,Maserati
+1951,,0,0,bettenhausen,Deidt
+1951,,0,0,nalon,Kurtis Kraft
+1951,,0,0,trintignant,Simca
+1951,,0,0,force,Kurtis Kraft
+1951,,0,0,hanks,Kurtis Kraft
+1951,,0,0,schindler,Kurtis Kraft
+1951,,0,0,rose,Deidt
+1951,,0,0,faulkner,Kuzma
+1951,,0,0,gordini,Simca
+1951,,0,0,kelly,Alta
+1951,,0,0,louveau,Talbot-Lago
+1951,,0,0,davies,Pawl
+1951,,0,0,pietsch,Alfa Romeo
+1951,,0,0,grignard,Talbot-Lago
+1951,,0,0,abecassis,HWM
+1951,,0,0,agabashian,Kurtis Kraft
+1951,,0,0,parker,Maserati
+1951,,0,0,scarborough,Kurtis Kraft
+1951,,0,0,murray,Maserati
+1951,,0,0,mackey,Hall
+1951,,0,0,bira,Maserati
+1951,,0,0,stevenson,Marchese
+1951,,0,0,john_james,Maserati
+1951,,0,0,landi,Ferrari
+1951,,0,0,jover,Maserati
+1951,,0,0,hirt,Veritas
+1951,,0,0,parsons,Kurtis Kraft
+1951,,0,0,marimon,Maserati
+1951,,0,0,branca,Maserati
+1951,,0,0,green,Kurtis Kraft
+1951,,0,0,richardson,BRM
+1951,,0,0,ruttman,Kurtis Kraft
+1951,,0,0,dinsmore,Schroeder
+1951,,0,0,miller,Kurtis Kraft
+1951,,0,0,walt_brown,Kurtis Kraft
+1951,,0,0,ward,Bromme
+1951,,0,0,griffith,Kurtis Kraft
+1951,,0,0,vukovich,Trevis
+1951,,0,0,george_connor,Lesovsky
+1951,,0,0,hellings,Deidt
+1951,,0,0,mcdowell,Maserati
+1951,,0,0,james,Watson
+1952,1,36,6,ascari,Ferrari
+1952,2,24,0,farina,Ferrari
+1952,3,22,1,taruffi,Ferrari
+1952,4,10,0,fischer,Ferrari
+1952,5,10,0,hawthorn,Cooper
+1952,6,9,0,manzon,Gordini
+1952,7,8,1,ruttman,Kuzma
+1952,8,8,0,villoresi,Ferrari
+1952,9,6.5,0,gonzalez,Maserati
+1952,10,6,0,rathmann,Kurtis Kraft
+1952,11,6,0,behra,Gordini
+1952,12,4,0,hanks,Kurtis Kraft
+1952,13,3,0,wharton,Frazer Nash
+1952,14,3,0,poore,Connaught
+1952,15,3,0,darter,Lesovsky
+1952,16,2,0,alan_brown,Cooper
+1952,17,2,0,trintignant,Simca
+1952,18,2,0,frere,HWM
+1952,19,2,0,bonetto,Maserati
+1952,20,2,0,cross,Kurtis Kraft
+1952,21,2,0,thompson,Connaught
+1952,22,1,0,vukovich,Kurtis Kraft
+1952,,0,0,laurent,HWM
+1952,,0,0,graffenried,Maserati
+1952,,0,0,simon,Ferrari
+1952,,0,0,collins,HWM
+1952,,0,0,bryan,Kurtis Kraft
+1952,,0,0,hirt,Ferrari
+1952,,0,0,tornaco,Ferrari
+1952,,0,0,duncan_hamilton,HWM
+1952,,0,0,reece,Kurtis Kraft
+1952,,0,0,reg_parnell,Cooper
+1952,,0,0,riess,Veritas
+1952,,0,0,macklin,HWM
+1952,,0,0,brandon,Cooper
+1952,,0,0,landi,Maserati
+1952,,0,0,claes,Gordini
+1952,,0,0,ulmen,Veritas
+1952,,0,0,george_connor,Kurtis Kraft
+1952,,0,0,etancelin,Maserati
+1952,,0,0,salvadori,Ferrari
+1952,,0,0,downing,Connaught
+1952,,0,0,griffith,Kurtis Kraft
+1952,,0,0,niedermayr,AFM
+1952,,0,0,flinterman,Maserati
+1952,,0,0,bira,Simca
+1952,,0,0,whitehead,Alta
+1952,,0,0,rosier,Ferrari
+1952,,0,0,parsons,Kurtis Kraft
+1952,,0,0,cabantous,HWM
+1952,,0,0,cantoni,Maserati
+1952,,0,0,mcgrath,Kurtis Kraft
+1952,,0,0,klenk,Veritas
+1952,,0,0,rigsby,Watson
+1952,,0,0,comotti,Ferrari
+1952,,0,0,graham_whitehead,Alta
+1952,,0,0,klodwig,BMW
+1952,,0,0,james,Kurtis Kraft
+1952,,0,0,legat,Veritas
+1952,,0,0,schindler,Stevens
+1952,,0,0,obrien,Simca
+1952,,0,0,gaze,HWM
+1952,,0,0,fonder,Sherman
+1952,,0,0,mcalpine,Connaught
+1952,,0,0,johnson,Trevis
+1952,,0,0,schell,Maserati
+1952,,0,0,bianco,Maserati
+1952,,0,0,stevenson,Kurtis Kraft
+1952,,0,0,banks,Lesovsky
+1952,,0,0,ayulo,Lesovsky
+1952,,0,0,mcdowell,Kurtis Kraft
+1952,,0,0,crook,Frazer Nash
+1952,,0,0,moss,HWM
+1952,,0,0,lof,HWM
+1952,,0,0,heeks,AFM
+1952,,0,0,charrington,Aston Butterworth
+1952,,0,0,brudes,Veritas
+1952,,0,0,abecassis,HWM
+1952,,0,0,balsa,BMW
+1952,,0,0,hans_stuck,AFM
+1952,,0,0,bechem,BMW
+1952,,0,0,carini,Ferrari
+1952,,0,0,krause,BMW
+1952,,0,0,rol,Maserati
+1952,,0,0,terra,Simca
+1952,,0,0,schoeller,Ferrari
+1952,,0,0,aston,Aston Butterworth
+1952,,0,0,webb,Bromme
+1952,,0,0,ward,Kurtis Kraft
+1952,,0,0,bettenhausen,Deidt
+1952,,0,0,pietsch,Veritas
+1952,,0,0,bayol,OSCA
+1952,,0,0,nalon,Kurtis Kraft
+1952,,0,0,sweikert,Kurtis Kraft
+1952,,0,0,agabashian,Kurtis Kraft
+1952,,0,0,helfrich,Veritas
+1952,,0,0,hartley,Kurtis Kraft
+1952,,0,0,murray,Cooper
+1952,,0,0,peters,Veritas
+1952,,0,0,bob_scott,Kurtis Kraft
+1952,,0,0,miller,Kurtis Kraft
+1952,,0,0,ball,Stevens
+1952,,0,0,linden,Kurtis Kraft
+1953,1,34.5,5,ascari,Ferrari
+1953,2,28,1,fangio,Maserati
+1953,3,26,1,farina,Ferrari
+1953,4,19,1,hawthorn,Ferrari
+1953,5,17,0,villoresi,Ferrari
+1953,6,13.5,0,gonzalez,Maserati
+1953,7,9,1,vukovich,Kurtis Kraft
+1953,8,7,0,graffenried,Maserati
+1953,9,6.5,0,bonetto,Maserati
+1953,10,6,0,cross,Kurtis Kraft
+1953,11,4,0,marimon,Maserati
+1953,12,4,0,trintignant,Gordini
+1953,13,2,0,darter,Kurtis Kraft
+1953,14,2,0,hanks,Kurtis Kraft
+1953,15,2,0,galvez,Maserati
+1953,16,2,0,mcgrath,Kurtis Kraft
+1953,17,2,0,lang,Maserati
+1953,18,1.5,0,paul_russo,Kurtis Kraft
+1953,19,1.5,0,agabashian,Kurtis Kraft
+1953,,0,0,moss,Connaught
+1953,,0,0,behra,Gordini
+1953,,0,0,mieres,Gordini
+1953,,0,0,daywalt,Kurtis Kraft
+1953,,0,0,schell,Gordini
+1953,,0,0,rosier,Ferrari
+1953,,0,0,wharton,Cooper
+1953,,0,0,bira,Connaught
+1953,,0,0,swaters,Ferrari
+1953,,0,0,johnson,Kurtis Kraft
+1953,,0,0,rathmann,Kurtis Kraft
+1953,,0,0,musso,Maserati
+1953,,0,0,mantovani,Maserati
+1953,,0,0,collins,HWM
+1953,,0,0,john_barber,Cooper
+1953,,0,0,mccoy,Stevens
+1953,,0,0,terra,Ferrari
+1953,,0,0,maglioli,Ferrari
+1953,,0,0,alan_brown,Cooper
+1953,,0,0,bettenhausen,Kuzma
+1953,,0,0,hartley,Kurtis Kraft
+1953,,0,0,stevenson,Kurtis Kraft
+1953,,0,0,wacker,Gordini
+1953,,0,0,whitehead,Cooper
+1953,,0,0,herrmann,Veritas
+1953,,0,0,scherrer,HWM
+1953,,0,0,chiron,OSCA
+1953,,0,0,frere,HWM
+1953,,0,0,davies,Kurtis Kraft
+1953,,0,0,nalon,Kurtis Kraft
+1953,,0,0,andre_pilette,Connaught
+1953,,0,0,gerard,Cooper
+1953,,0,0,nuckey,Cooper
+1953,,0,0,claes,Connaught
+1953,,0,0,bob_scott,Kurtis Kraft
+1953,,0,0,scarborough,Kurtis Kraft
+1953,,0,0,helfrich,Veritas
+1953,,0,0,mcalpine,Connaught
+1953,,0,0,ayulo,Kuzma
+1953,,0,0,cabantous,HWM
+1953,,0,0,hans_stuck,AFM
+1953,,0,0,bryan,Schroeder
+1953,,0,0,krause,BMW
+1953,,0,0,holland,Kurtis Kraft
+1953,,0,0,klodwig,BMW
+1953,,0,0,dinsmore,Kurtis Kraft
+1953,,0,0,linden,Kurtis Kraft
+1953,,0,0,ward,Kurtis Kraft
+1953,,0,0,seidel,Veritas
+1953,,0,0,faulkner,Kurtis Kraft
+1953,,0,0,mantz,Kurtis Kraft
+1953,,0,0,landi,Maserati
+1953,,0,0,manzon,Gordini
+1953,,0,0,jimmy_stewart,Cooper
+1953,,0,0,rolt,Connaught
+1953,,0,0,macklin,HWM
+1953,,0,0,menditeguy,Gordini
+1953,,0,0,birger,Simca
+1953,,0,0,cruz,Cooper
+1953,,0,0,fairman,HWM
+1953,,0,0,hirt,Ferrari
+1953,,0,0,salvadori,Connaught
+1953,,0,0,teague,Kurtis Kraft
+1953,,0,0,bayol,OSCA
+1953,,0,0,thomson,Kurtis Kraft
+1953,,0,0,webb,Kurtis Kraft
+1953,,0,0,holmes,Kurtis Kraft
+1953,,0,0,georges_berger,Simca
+1953,,0,0,sweikert,Kuzma
+1953,,0,0,legat,Veritas
+1953,,0,0,barth,EMW
+1953,,0,0,nazaruk,Turner
+1953,,0,0,flaherty,Kuzma
+1953,,0,0,ian_stewart,Connaught
+1953,,0,0,karch,Veritas
+1953,,0,0,hoyt,Kurtis Kraft
+1953,,0,0,heeks,Veritas
+1953,,0,0,duncan_hamilton,HWM
+1953,,0,0,carini,Ferrari
+1953,,0,0,parsons,Kurtis Kraft
+1953,,0,0,freeland,Watson
+1953,,0,0,crook,Cooper
+1953,,0,0,fitzau,AFM
+1953,,0,0,adolff,Ferrari
+1953,,0,0,fitch,HWM
+1953,,0,0,bechem,AFM
+1953,,0,0,niday,Kurtis Kraft
+1953,,0,0,bauer,Veritas
+1953,,0,0,loof,Veritas
+1954,1,42,6,fangio,Maserati
+1954,2,25.14,1,gonzalez,Ferrari
+1954,3,24.64,1,hawthorn,Ferrari
+1954,4,17,0,trintignant,Ferrari
+1954,5,12,0,kling,Mercedes
+1954,6,8,1,vukovich,Kurtis Kraft
+1954,7,8,0,herrmann,Mercedes
+1954,8,6,0,farina,Ferrari
+1954,9,6,0,musso,Maserati
+1954,10,6,0,bryan,Kuzma
+1954,11,6,0,mieres,Maserati
+1954,12,5,0,mcgrath,Kurtis Kraft
+1954,13,4.14,0,moss,Maserati
+1954,14,4.14,0,marimon,Maserati
+1954,15,4,0,manzon,Ferrari
+1954,16,4,0,mantovani,Maserati
+1954,17,3,0,bira,Maserati
+1954,18,2,0,maglioli,Ferrari
+1954,19,2,0,andre_pilette,Gordini
+1954,20,2,0,villoresi,Maserati
+1954,21,2,0,bayol,Gordini
+1954,22,2,0,nazaruk,Kurtis Kraft
+1954,23,1.5,0,darter,Kurtis Kraft
+1954,24,1.5,0,ruttman,Kurtis Kraft
+1954,25,1.1400000000000001,0,ascari,Maserati
+1954,26,0.14,0,behra,Gordini
+1954,,0,0,schell,Maserati
+1954,,0,0,wharton,Maserati
+1954,,0,0,wacker,Gordini
+1954,,0,0,agabashian,Kurtis Kraft
+1954,,0,0,taruffi,Ferrari
+1954,,0,0,godia,Maserati
+1954,,0,0,rosier,Ferrari
+1954,,0,0,collins,Vanwall
+1954,,0,0,freeland,Phillips
+1954,,0,0,graffenried,Maserati
+1954,,0,0,swaters,Ferrari
+1954,,0,0,paul_russo,Kurtis Kraft
+1954,,0,0,hoyt,Kurtis Kraft
+1954,,0,0,crockett,Kurtis Kraft
+1954,,0,0,niday,Stevens
+1954,,0,0,gerard,Cooper
+1954,,0,0,daponte,Maserati
+1954,,0,0,parsons,Kurtis Kraft
+1954,,0,0,davies,Kurtis Kraft
+1954,,0,0,hanks,Kurtis Kraft
+1954,,0,0,linden,Kurtis Kraft
+1954,,0,0,cross,Kurtis Kraft
+1954,,0,0,beauman,Connaught
+1954,,0,0,faulkner,Kuzma
+1954,,0,0,stevenson,Kuzma
+1954,,0,0,ayulo,Kuzma
+1954,,0,0,marr,Connaught
+1954,,0,0,sweikert,Kurtis Kraft
+1954,,0,0,thorne,Connaught
+1954,,0,0,bettenhausen,Kurtis Kraft
+1954,,0,0,teague,Kurtis Kraft
+1954,,0,0,jackson,Kurtis Kraft
+1954,,0,0,gould,Cooper
+1954,,0,0,mccoy,Kurtis Kraft
+1954,,0,0,reece,Pankratz
+1954,,0,0,bob_scott,Stevens
+1954,,0,0,elisian,Stevens
+1954,,0,0,armi,Kurtis Kraft
+1954,,0,0,fonder,Kurtis Kraft
+1954,,0,0,hartley,Kurtis Kraft
+1954,,0,0,frere,Gordini
+1954,,0,0,volonterio,Maserati
+1954,,0,0,lang,Mercedes
+1954,,0,0,bucci,Gordini
+1954,,0,0,pollet,Gordini
+1954,,0,0,loyer,Gordini
+1954,,0,0,helfrich,Klenk
+1954,,0,0,salvadori,Maserati
+1954,,0,0,macklin,HWM
+1954,,0,0,whitehouse,Connaught
+1954,,0,0,menditeguy,Maserati
+1954,,0,0,georges_berger,Gordini
+1954,,0,0,rathmann,Kurtis Kraft
+1954,,0,0,flockhart,Maserati
+1954,,0,0,connor,Kurtis Kraft
+1954,,0,0,johnson,Pawl
+1954,,0,0,ward,Pawl
+1954,,0,0,riseley_prichard,Connaught
+1954,,0,0,reg_parnell,Ferrari
+1954,,0,0,daywalt,Kurtis Kraft
+1954,,0,0,thomson,Nichels
+1954,,0,0,flaherty,Kurtis Kraft
+1954,,0,0,whitehead,Cooper
+1954,,0,0,brandon,Cooper
+1954,,0,0,webb,Bromme
+1954,,0,0,kladis,Bromme
+1954,,0,0,duncan,Schroeder
+1954,,0,0,alan_brown,Cooper
+1954,,0,0,nuckey,Cooper
+1954,,0,0,homeier,Kurtis Kraft
+1955,1,40,4,fangio,Mercedes
+1955,2,23,1,moss,Mercedes
+1955,3,12,0,castellotti,Lancia
+1955,4,10,1,trintignant,Ferrari
+1955,5,9,0,farina,Ferrari
+1955,6,9,0,taruffi,Ferrari
+1955,7,8,1,sweikert,Kurtis Kraft
+1955,8,7,0,mieres,Maserati
+1955,9,6,0,behra,Maserati
+1955,10,6,0,musso,Maserati
+1955,11,5,0,kling,Mercedes
+1955,12,4,0,davies,Kurtis Kraft
+1955,13,3,0,bettenhausen,Kurtis Kraft
+1955,14,3,0,paul_russo,Kurtis Kraft
+1955,15,3,0,frere,Ferrari
+1955,16,3,0,thomson,Kuzma
+1955,17,2,0,gonzalez,Ferrari
+1955,18,2,0,perdisa,Maserati
+1955,19,2,0,menditeguy,Maserati
+1955,20,2,0,villoresi,Lancia
+1955,21,1.33,0,maglioli,Ferrari
+1955,22,1,0,herrmann,Mercedes
+1955,23,1,0,faulkner,Kurtis Kraft
+1955,24,1,0,homeier,Kurtis Kraft
+1955,25,1,0,vukovich,Kurtis Kraft
+1955,,0,0,hawthorn,Vanwall
+1955,,0,0,schell,Maserati
+1955,,0,0,chiron,Lancia
+1955,,0,0,linden,Kurtis Kraft
+1955,,0,0,pollet,Gordini
+1955,,0,0,mantovani,Maserati
+1955,,0,0,herman,Kurtis Kraft
+1955,,0,0,sparken,Gordini
+1955,,0,0,ramos,Gordini
+1955,,0,0,connor,Kurtis Kraft
+1955,,0,0,macklin,Maserati
+1955,,0,0,rosier,Maserati
+1955,,0,0,wharton,Vanwall
+1955,,0,0,daywalt,Kurtis Kraft
+1955,,0,0,fitch,Maserati
+1955,,0,0,flaherty,Kurtis Kraft
+1955,,0,0,claes,Maserati
+1955,,0,0,darter,Kuzma
+1955,,0,0,weyant,Kurtis Kraft
+1955,,0,0,johnson,Trevis
+1955,,0,0,rathmann,Epperly
+1955,,0,0,bucci,Maserati
+1955,,0,0,iglesias,Gordini
+1955,,0,0,ascari,Lancia
+1955,,0,0,jack_brabham,Cooper
+1955,,0,0,gould,Maserati
+1955,,0,0,manzon,Gordini
+1955,,0,0,mcalpine,Connaught
+1955,,0,0,bayol,Gordini
+1955,,0,0,collins,Maserati
+1955,,0,0,uria,Maserati
+1955,,0,0,freeland,Phillips
+1955,,0,0,peter_walker,Maserati
+1955,,0,0,niday,Kurtis Kraft
+1955,,0,0,salvadori,Maserati
+1955,,0,0,simon,Mercedes
+1955,,0,0,cross,Kurtis Kraft
+1955,,0,0,templeman,Trevis
+1955,,0,0,hanks,Kurtis Kraft
+1955,,0,0,rolt,Connaught
+1955,,0,0,lucas,Gordini
+1955,,0,0,birger,Gordini
+1955,,0,0,andrews,Schroeder
+1955,,0,0,marr,Connaught
+1955,,0,0,parsons,Kurtis Kraft
+1955,,0,0,russo,Pawl
+1955,,0,0,ray_crawford,Kurtis Kraft
+1955,,0,0,piotti,Arzani-Volpini
+1955,,0,0,bryan,Kuzma
+1955,,0,0,fairman,Connaught
+1955,,0,0,mcgrath,Kurtis Kraft
+1955,,0,0,keller,Kurtis Kraft
+1955,,0,0,ward,Kuzma
+1955,,0,0,boyd,Kurtis Kraft
+1955,,0,0,elisian,Kurtis Kraft
+1955,,0,0,hoyt,Stevens
+1955,,0,0,agabashian,Kurtis Kraft
+1955,,0,0,reece,Pankratz
+1956,1,30,3,fangio,Ferrari
+1956,2,27,2,moss,Maserati
+1956,3,25,2,collins,Ferrari
+1956,4,22,0,behra,Maserati
+1956,5,8,1,flaherty,Watson
+1956,6,7.5,0,castellotti,Ferrari
+1956,7,6,0,hanks,Kurtis Kraft
+1956,8,6,0,frere,Ferrari
+1956,9,6,0,godia,Maserati
+1956,10,5,0,fairman,Connaught
+1956,11,4,1,musso,Ferrari
+1956,12,4,0,hawthorn,Maserati
+1956,13,4,0,flockhart,BRM
+1956,14,4,0,freeland,Phillips
+1956,15,3,0,portago,Ferrari
+1956,16,3,0,perdisa,Maserati
+1956,17,3,0,schell,Vanwall
+1956,18,3,0,parsons,Kurtis Kraft
+1956,19,2,0,rosier,Maserati
+1956,20,2,0,villoresi,Maserati
+1956,21,2,0,gould,Maserati
+1956,22,2,0,ramos,Gordini
+1956,23,2,0,gendebien,Ferrari
+1956,24,2,0,dick_rathmann,Kurtis Kraft
+1956,25,1.5,0,gerini,Maserati
+1956,26,1.5,0,landi,Maserati
+1956,27,1,0,paul_russo,Kurtis Kraft
+1956,,0,0,andre_pilette,Gordini
+1956,,0,0,piotti,Maserati
+1956,,0,0,oscar_gonzalez,Maserati
+1956,,0,0,uria,Maserati
+1956,,0,0,bayol,Gordini
+1956,,0,0,sweikert,Kuzma
+1956,,0,0,veith,Kurtis Kraft
+1956,,0,0,graffenried,Maserati
+1956,,0,0,ward,Kurtis Kraft
+1956,,0,0,manzon,Gordini
+1956,,0,0,simon,Maserati
+1956,,0,0,reece,Lesovsky
+1956,,0,0,griffith,Stevens
+1956,,0,0,salvadori,Maserati
+1956,,0,0,hartley,Kuzma
+1956,,0,0,gerard,Cooper
+1956,,0,0,agabashian,Kurtis Kraft
+1956,,0,0,christie,Kurtis Kraft
+1956,,0,0,keller,Kurtis Kraft
+1956,,0,0,johnson,Kuzma
+1956,,0,0,garrett,Kuzma
+1956,,0,0,dinsmore,Kurtis Kraft
+1956,,0,0,connor,Kurtis Kraft
+1956,,0,0,bryan,Kuzma
+1956,,0,0,halford,Maserati
+1956,,0,0,volonterio,Maserati
+1956,,0,0,milhoux,Gordini
+1956,,0,0,trintignant,Vanwall
+1956,,0,0,menditeguy,Maserati
+1956,,0,0,gonzalez,Maserati
+1956,,0,0,maglioli,Maserati
+1956,,0,0,scotti,Connaught
+1956,,0,0,titterington,Connaught
+1956,,0,0,brooks,BRM
+1956,,0,0,chiron,Maserati
+1956,,0,0,taruffi,Vanwall
+1956,,0,0,scarlatti,Ferrari
+1956,,0,0,rathmann,Kurtis Kraft
+1956,,0,0,chapman,Vanwall
+1956,,0,0,bonnier,Maserati
+1956,,0,0,tolan,Kurtis Kraft
+1956,,0,0,bettenhausen,Kurtis Kraft
+1956,,0,0,elisian,Kurtis Kraft
+1956,,0,0,russo,Kurtis Kraft
+1956,,0,0,leston,Connaught
+1956,,0,0,daywalt,Kurtis Kraft
+1956,,0,0,scott_Brown,Connaught
+1956,,0,0,turner,Kurtis Kraft
+1956,,0,0,emery,Emeryson
+1956,,0,0,trips,Ferrari
+1956,,0,0,andrews,Kurtis Kraft
+1956,,0,0,jack_brabham,Maserati
+1956,,0,0,linden,Kurtis Kraft
+1956,,0,0,herman,Kurtis Kraft
+1956,,0,0,ray_crawford,Kurtis Kraft
+1956,,0,0,boyd,Kurtis Kraft
+1956,,0,0,ruttman,Kurtis Kraft
+1956,,0,0,thomson,Kuzma
+1957,1,40,4,fangio,Maserati
+1957,2,25,3,moss,Maserati
+1957,3,16,0,musso,Ferrari
+1957,4,13,0,hawthorn,Ferrari
+1957,5,11,1,brooks,Vanwall
+1957,6,10,0,gregory,Maserati
+1957,7,10,0,schell,Maserati
+1957,8,8,1,hanks,Epperly
+1957,9,8,0,collins,Ferrari
+1957,10,7,0,rathmann,Epperly
+1957,11,6,0,behra,Maserati
+1957,12,5,0,lewis-evans,Connaught
+1957,13,5,0,trintignant,Ferrari
+1957,14,4,0,trips,Ferrari
+1957,15,4,0,menditeguy,Maserati
+1957,16,4,0,bryan,Kuzma
+1957,17,3,0,paul_russo,Kurtis Kraft
+1957,18,2,0,salvadori,BRM
+1957,19,2,0,linden,Kurtis Kraft
+1957,20,1,0,scarlatti,Maserati
+1957,21,1,0,gonzalez,Ferrari
+1957,22,1,0,portago,Ferrari
+1957,,0,0,jack_brabham,Cooper
+1957,,0,0,perdisa,Ferrari
+1957,,0,0,boyd,Kurtis Kraft
+1957,,0,0,gerard,Cooper
+1957,,0,0,bonnier,Maserati
+1957,,0,0,teague,Kurtis Kraft
+1957,,0,0,macdowel,Cooper
+1957,,0,0,bueb,Connaught
+1957,,0,0,connor,Kurtis Kraft
+1957,,0,0,godia,Maserati
+1957,,0,0,tomaso,Ferrari
+1957,,0,0,veith,Phillips
+1957,,0,0,gould,Maserati
+1957,,0,0,piotti,Maserati
+1957,,0,0,hartley,Lesovsky
+1957,,0,0,halford,Maserati
+1957,,0,0,turner,Kurtis Kraft
+1957,,0,0,simon,Maserati
+1957,,0,0,volonterio,Maserati
+1957,,0,0,thomson,Kuzma
+1957,,0,0,barth,Porsche
+1957,,0,0,christie,Kurtis Kraft
+1957,,0,0,naylor,Cooper
+1957,,0,0,weyant,Kuzma
+1957,,0,0,beaufort,Porsche
+1957,,0,0,bettenhausen,Kurtis Kraft
+1957,,0,0,marsh,Cooper
+1957,,0,0,parsons,Kurtis Kraft
+1957,,0,0,freeland,Kurtis Kraft
+1957,,0,0,flockhart,BRM
+1957,,0,0,castellotti,Ferrari
+1957,,0,0,mackay-fraser,BRM
+1957,,0,0,fairman,BRM
+1957,,0,0,leston,Cooper
+1957,,0,0,herrmann,Maserati
+1957,,0,0,maglioli,Porsche
+1957,,0,0,reece,Kurtis Kraft
+1957,,0,0,edmunds,Kurtis Kraft
+1957,,0,0,tolan,Kurtis Kraft
+1957,,0,0,herman,Dunn
+1957,,0,0,agabashian,Kurtis Kraft
+1957,,0,0,england,Cooper
+1957,,0,0,sachs,Kuzma
+1957,,0,0,gibson,Cooper
+1957,,0,0,magill,Kurtis Kraft
+1957,,0,0,johnson,Kurtis Kraft
+1957,,0,0,cheesbourg,Kurtis Kraft
+1957,,0,0,keller,Kurtis Kraft
+1957,,0,0,daywalt,Kurtis Kraft
+1957,,0,0,elisian,Kurtis Kraft
+1957,,0,0,ward,Lesovsky
+1957,,0,0,ruttman,Watson
+1957,,0,0,russo,Kurtis Kraft
+1957,,0,0,george,Kurtis Kraft
+1958,1,42,1,hawthorn,Ferrari
+1958,2,41,4,moss,Cooper
+1958,3,24,3,brooks,Vanwall
+1958,4,15,0,salvadori,Cooper
+1958,5,14,1,collins,Ferrari
+1958,6,14,0,schell,Maserati
+1958,7,12,1,trintignant,Cooper
+1958,8,12,0,musso,Ferrari
+1958,9,11,0,lewis-evans,Vanwall
+1958,10,9,0,phil_hill,Maserati
+1958,11,9,0,trips,Ferrari
+1958,12,9,0,behra,Maserati
+1958,13,8,1,bryan,Epperly
+1958,14,7,0,fangio,Maserati
+1958,15,6,0,george_amick,Epperly
+1958,16,4,0,boyd,Kurtis Kraft
+1958,17,4,0,bettenhausen,Epperly
+1958,18,3,0,jack_brabham,Cooper
+1958,19,3,0,allison,Team Lotus
+1958,20,3,0,bonnier,Maserati
+1958,21,2,0,rathmann,Epperly
+1958,,0,0,gregory,Maserati
+1958,,0,0,shelby,Maserati
+1958,,0,0,mclaren,Cooper
+1958,,0,0,hill,Team Lotus
+1958,,0,0,gendebien,Ferrari
+1958,,0,0,reece,Watson
+1958,,0,0,barth,Porsche
+1958,,0,0,burgess,Cooper
+1958,,0,0,menditeguy,Maserati
+1958,,0,0,freeland,Phillips
+1958,,0,0,godia,Maserati
+1958,,0,0,fairman,Connaught
+1958,,0,0,larson,Watson
+1958,,0,0,marsh,Cooper
+1958,,0,0,gerini,Maserati
+1958,,0,0,herrmann,Maserati
+1958,,0,0,gould,Maserati
+1958,,0,0,johnson,Kurtis Kraft
+1958,,0,0,filippis,Maserati
+1958,,0,0,ruttman,Maserati
+1958,,0,0,cheesbourg,Kurtis Kraft
+1958,,0,0,bueb,Connaught
+1958,,0,0,beaufort,Porsche
+1958,,0,0,keller,Kurtis Kraft
+1958,,0,0,parsons,Kurtis Kraft
+1958,,0,0,tolan,Kuzma
+1958,,0,0,la_caze,Cooper
+1958,,0,0,guelfi,Cooper
+1958,,0,0,cabianca,OSCA
+1958,,0,0,scarlatti,Maserati
+1958,,0,0,seidel,Maserati
+1958,,0,0,christie,Kurtis Kraft
+1958,,0,0,dempsey_wilson,Kuzma
+1958,,0,0,foyt,Kuzma
+1958,,0,0,goethals,Cooper
+1958,,0,0,magill,Kurtis Kraft
+1958,,0,0,paul_russo,Kurtis Kraft
+1958,,0,0,stacey,Team Lotus
+1958,,0,0,picard,Cooper
+1958,,0,0,templeman,Kurtis Kraft
+1958,,0,0,bridger,Cooper
+1958,,0,0,ward,Lesovsky
+1958,,0,0,garrett,Kurtis Kraft
+1958,,0,0,sachs,Kuzma
+1958,,0,0,gibson,Cooper
+1958,,0,0,thomson,Kurtis Kraft
+1958,,0,0,naylor,Cooper
+1958,,0,0,weyant,Dunn
+1958,,0,0,flockhart,Cooper
+1958,,0,0,turner,Lesovsky
+1958,,0,0,veith,Kurtis Kraft
+1958,,0,0,dick_rathmann,Watson
+1958,,0,0,elisian,Watson
+1958,,0,0,connor,Kurtis Kraft
+1958,,0,0,goldsmith,Kurtis Kraft
+1958,,0,0,jerry_unser,Kurtis Kraft
+1958,,0,0,sutton,Kurtis Kraft
+1958,,0,0,bisch,Kuzma
+1959,1,31,2,jack_brabham,Cooper-Climax
+1959,2,27,2,brooks,Ferrari
+1959,3,25.5,2,moss,Cooper-Climax
+1959,4,20,0,phil_hill,Ferrari
+1959,5,19,0,trintignant,Cooper-Climax
+1959,6,16.5,1,mclaren,Cooper-Climax
+1959,7,13,0,gurney,Ferrari
+1959,8,10,1,bonnier,BRM
+1959,9,10,0,gregory,Cooper-Climax
+1959,10,8,1,ward,Watson
+1959,11,6,0,rathmann,Watson
+1959,12,5,0,thomson,Lesovsky
+1959,13,5,0,schell,BRM
+1959,14,5,0,ireland,Team Lotus
+1959,15,3,0,gendebien,Ferrari
+1959,16,3,0,bettenhausen,Epperly
+1959,17,2,0,allison,Ferrari
+1959,18,2,0,behra,Ferrari
+1959,19,2,0,goldsmith,Epperly
+1959,,0,0,salvadori,Cooper-Maserati
+1959,,0,0,flockhart,BRM
+1959,,0,0,burgess,Cooper-Maserati
+1959,,0,0,trips,Porsche
+1959,,0,0,boyd,Epperly
+1959,,0,0,hill,Team Lotus
+1959,,0,0,darter,Kurtis Kraft
+1959,,0,0,blanchard,Porsche
+1959,,0,0,shelby,Aston Martin
+1959,,0,0,scarlatti,Maserati
+1959,,0,0,stacey,Team Lotus
+1959,,0,0,johnson,Kurtis Kraft
+1959,,0,0,beaufort,Porsche
+1959,,0,0,paul_russo,Kurtis Kraft
+1959,,0,0,orey,Maserati
+1959,,0,0,foyt,Kuzma
+1959,,0,0,bristow,Cooper-Borgward
+1959,,0,0,cabral,Cooper-Maserati
+1959,,0,0,davis,Cooper-Maserati
+1959,,0,0,hartley,Kuzma
+1959,,0,0,henry_taylor,Cooper-Climax
+1959,,0,0,veith,Moore
+1959,,0,0,ashdown,Cooper-Climax
+1959,,0,0,herman,Dunn
+1959,,0,0,bueb,Cooper-Climax
+1959,,0,0,daywalt,Kurtis Kraft
+1959,,0,0,arnold,Kurtis Kraft
+1959,,0,0,cabianca,Maserati
+1959,,0,0,mcwithey,Kurtis Kraft
+1959,,0,0,herrmann,Cooper-Maserati
+1959,,0,0,tomaso,Cooper-OSCA
+1959,,0,0,halford,Team Lotus
+1959,,0,0,constantine,Cooper-Borgward
+1959,,0,0,fairman,Cooper-Climax
+1959,,0,0,sachs,Kuzma
+1959,,0,0,keller,Kuzma
+1959,,0,0,said,Connaught
+1959,,0,0,flaherty,Watson
+1959,,0,0,cade,Maserati
+1959,,0,0,dick_rathmann,Watson
+1959,,0,0,cheesbourg,Kuzma
+1959,,0,0,piper,Team Lotus
+1959,,0,0,freeland,Kurtis Kraft
+1959,,0,0,fontes,Maserati
+1959,,0,0,naylor,JBW
+1959,,0,0,ray_crawford,Elder
+1959,,0,0,mike_taylor,Cooper-Climax
+1959,,0,0,branson,Phillips
+1959,,0,0,christie,Kurtis Kraft
+1959,,0,0,grim,Kurtis Kraft
+1959,,0,0,turner,Christensen
+1959,,0,0,weyant,Kurtis Kraft
+1959,,0,0,larson,Kurtis Kraft
+1959,,0,0,magill,Sutton
+1959,,0,0,amick,Kurtis Kraft
+1959,,0,0,sutton,Lesovsky
+1959,,0,0,bryan,Epperly
+1960,1,43,5,jack_brabham,Cooper-Climax
+1960,2,34,1,mclaren,Cooper-Climax
+1960,3,19,2,moss,Cooper-Climax
+1960,4,18,0,ireland,Team Lotus
+1960,5,16,1,phil_hill,Ferrari
+1960,6,10,0,gendebien,Cooper-Climax
+1960,7,10,0,trips,Ferrari
+1960,8,8,1,rathmann,Watson
+1960,9,8,0,ginther,Ferrari
+1960,10,8,0,clark,Team Lotus
+1960,11,7,0,brooks,Cooper-Climax
+1960,12,6,0,surtees,Team Lotus
+1960,13,6,0,allison,Ferrari
+1960,14,6,0,ward,Watson
+1960,15,4,0,hill,BRM
+1960,16,4,0,mairesse,Ferrari
+1960,17,4,0,goldsmith,Epperly
+1960,18,4,0,bonnier,BRM
+1960,19,3,0,henry_taylor,Cooper-Climax
+1960,20,3,0,menditeguy,Cooper-Maserati
+1960,21,3,0,branson,Phillips
+1960,22,3,0,cabianca,Cooper-Castellotti
+1960,23,2,0,thomson,Lesovsky
+1960,24,1,0,bianchi,Cooper-Climax
+1960,25,1,0,flockhart,Team Lotus
+1960,26,1,0,johnson,Trevis
+1960,27,1,0,herrmann,Porsche
+1960,,0,0,trintignant,Cooper-Climax
+1960,,0,0,ruby,Watson
+1960,,0,0,barth,Porsche
+1960,,0,0,hall,Team Lotus
+1960,,0,0,salvadori,Cooper-Climax
+1960,,0,0,veith,Meskowski
+1960,,0,0,beaufort,Cooper-Climax
+1960,,0,0,halford,Cooper-Climax
+1960,,0,0,drogo,Cooper-Climax
+1960,,0,0,gregory,Behra-Porsche
+1960,,0,0,larreta,Team Lotus
+1960,,0,0,tingelstad,Trevis
+1960,,0,0,seidel,Cooper-Climax
+1960,,0,0,gurney,BRM
+1960,,0,0,daigh,Scarab
+1960,,0,0,burgess,Cooper-Maserati
+1960,,0,0,gonzalez,Ferrari
+1960,,0,0,christie,Kurtis Kraft
+1960,,0,0,gamble,Behra-Porsche
+1960,,0,0,bonomi,Cooper-Maserati
+1960,,0,0,amick,Epperly
+1960,,0,0,lovely,Cooper-Castellotti
+1960,,0,0,piper,Team Lotus
+1960,,0,0,darter,Kuzma
+1960,,0,0,munaron,Maserati
+1960,,0,0,naylor,JBW
+1960,,0,0,homeier,Kuzma
+1960,,0,0,drake,Maserati
+1960,,0,0,estefano,Maserati
+1960,,0,0,hartley,Kurtis Kraft
+1960,,0,0,stevenson,Watson
+1960,,0,0,grim,Meskowski
+1960,,0,0,templeman,Kurtis Kraft
+1960,,0,0,hurtubise,Christensen
+1960,,0,0,bryan,Epperly
+1960,,0,0,ruttman,Watson
+1960,,0,0,sachs,Ewing
+1960,,0,0,freeland,Kurtis Kraft
+1960,,0,0,bettenhausen,Watson
+1960,,0,0,weiler,Epperly
+1960,,0,0,foyt,Kurtis Kraft
+1960,,0,0,russo,Kurtis Kraft
+1960,,0,0,boyd,Epperly
+1960,,0,0,force,Kurtis Kraft
+1960,,0,0,mcwithey,Epperly
+1960,,0,0,sutton,Watson
+1960,,0,0,dick_rathmann,Watson
+1960,,0,0,herman,Ewing
+1960,,0,0,dempsey_wilson,Kurtis Kraft
+1960,,0,0,stacey,Team Lotus
+1960,,0,0,cabral,Cooper-Maserati
+1960,,0,0,bristow,Cooper-Climax
+1960,,0,0,thiele,Cooper-Maserati
+1960,,0,0,scarlatti,Maserati
+1960,,0,0,schell,Cooper-Climax
+1960,,0,0,vic_wilson,Cooper-Climax
+1960,,0,0,owen,Cooper-Climax
+1960,,0,0,reventlow,Scarab
+1960,,0,0,gould,Maserati
+1960,,0,0,mike_taylor,Team Lotus
+1960,,0,0,chimeri,Maserati
+1960,,0,0,creus,Maserati
+1960,,0,0,fairman,Cooper-Climax
+1960,,0,0,greene,Cooper-Maserati
+1961,1,34,2,phil_hill,Ferrari
+1961,2,33,2,trips,Ferrari
+1961,3,21,2,moss,Lotus-Climax
+1961,4,21,0,gurney,Porsche
+1961,5,16,0,ginther,Ferrari
+1961,6,12,1,ireland,Lotus-Climax
+1961,7,11,0,clark,Lotus-Climax
+1961,8,11,0,mclaren,Cooper-Climax
+1961,9,9,1,baghetti,Ferrari
+1961,10,6,0,brooks,BRM
+1961,11,4,0,jack_brabham,Cooper-Climax
+1961,12,4,0,surtees,Cooper-Climax
+1961,13,3,0,lewis,Cooper-Climax
+1961,14,3,0,gendebien,Emeryson
+1961,15,3,0,bonnier,Porsche
+1961,16,3,0,hill,BRM
+1961,17,2,0,salvadori,Cooper-Climax
+1961,,0,0,trintignant,Cooper-Maserati
+1961,,0,0,beaufort,Porsche
+1961,,0,0,bandini,Cooper-Maserati
+1961,,0,0,allison,Lotus-Climax
+1961,,0,0,penske,Cooper-Climax
+1961,,0,0,herrmann,Porsche
+1961,,0,0,ryan,Lotus-Climax
+1961,,0,0,gregory,Cooper-Climax
+1961,,0,0,henry_taylor,Lotus-Climax
+1961,,0,0,parnell,Lotus-Climax
+1961,,0,0,sharp,Cooper-Climax
+1961,,0,0,maggs,Lotus-Climax
+1961,,0,0,may,Lotus-Climax
+1961,,0,0,burgess,Lotus-Climax
+1961,,0,0,pirocchi,Cooper-Climax
+1961,,0,0,trevor_taylor,Lotus-Climax
+1961,,0,0,marsh,Lotus-Climax
+1961,,0,0,greene,Gilby
+1961,,0,0,ashmore,Lotus-Climax
+1961,,0,0,seidel,Lotus-Climax
+1961,,0,0,hall,Lotus-Climax
+1961,,0,0,ruby,Lotus-Climax
+1961,,0,0,starrabba,Lotus-Maserati
+1961,,0,0,mairesse,Lotus-Climax
+1961,,0,0,ricardo_rodriguez,Ferrari
+1961,,0,0,hansgen,Cooper-Climax
+1961,,0,0,bianchi,Emeryson
+1961,,0,0,collomb,Cooper-Climax
+1961,,0,0,fairman,Ferguson
+1961,,0,0,vaccarella,De Tomaso-Alfa Romeo
+1961,,0,0,ken_miles,Lotus-Climax
+1961,,0,0,scarlatti,De Tomaso-Osca
+1961,,0,0,naylor,JBW
+1961,,0,0,barth,Porsche
+1961,,0,0,bordeu,Lotus-Climax
+1961,,0,0,bussinello,De Tomaso-Alfa Romeo
+1961,,0,0,natili,Cooper-Maserati
+1961,,0,0,monteverdi,MBM
+1961,,0,0,lippi,De Tomaso-Osca
+1961,,0,0,duke,Cooper-Climax
+1961,,0,0,campbell-jones,Cooper-Climax
+1961,,0,0,thiele,Cooper-Climax
+1961,,0,0,prinoth,Lotus-Climax
+1961,,0,0,boffa,Cooper-Climax
+1962,1,42,4,hill,BRM
+1962,2,30,3,clark,Lotus-Climax
+1962,3,27,1,mclaren,Cooper-Climax
+1962,4,19,0,surtees,Lola
+1962,5,15,1,gurney,Porsche
+1962,6,14,0,phil_hill,Ferrari
+1962,7,13,0,maggs,Cooper-Climax
+1962,8,10,0,ginther,BRM
+1962,9,9,0,jack_brabham,Lotus-Climax
+1962,10,6,0,trevor_taylor,Lotus-Climax
+1962,11,5,0,baghetti,Ferrari
+1962,12,4,0,bandini,Ferrari
+1962,13,4,0,ricardo_rodriguez,Ferrari
+1962,14,3,0,mairesse,Ferrari
+1962,15,3,0,bonnier,Porsche
+1962,16,2,0,ireland,Lotus-Climax
+1962,17,2,0,beaufort,Porsche
+1962,18,1,0,gregory,Lotus-Climax
+1962,19,1,0,lederle,Lotus-Climax
+1962,,0,0,trintignant,Lotus-Climax
+1962,,0,0,lewis,Cooper-Climax
+1962,,0,0,love,Cooper-Climax
+1962,,0,0,vaccarella,Lotus-Climax
+1962,,0,0,bianchi,Lotus-Climax
+1962,,0,0,penske,Lotus-Climax
+1962,,0,0,johnstone,BRM
+1962,,0,0,siffert,Lotus-Climax
+1962,,0,0,schroeder,Lotus-Climax
+1962,,0,0,pieterse,Lotus-Climax
+1962,,0,0,burgess,Cooper-Climax
+1962,,0,0,settember,Emeryson
+1962,,0,0,campbell-jones,Lotus-Climax
+1962,,0,0,sharp,Cooper-Climax
+1962,,0,0,walter,Porsche
+1962,,0,0,chamberlain,Lotus-Climax
+1962,,0,0,salvadori,Lola
+1962,,0,0,serrurier,LDS
+1962,,0,0,seidel,Emeryson
+1962,,0,0,harris,Cooper-Alfa Romeo
+1962,,0,0,mayer,Cooper-Climax
+1962,,0,0,arundell,Team Lotus
+1962,,0,0,hocking,Lotus-Climax
+1962,,0,0,marsh,BRM
+1962,,0,0,vyver,Lotus-Climax
+1962,,0,0,greene,Lotus-Climax
+1962,,0,0,pon,Porsche
+1962,,0,0,davis,Porsche
+1962,,0,0,hall,Lotus-Climax
+1962,,0,0,slotemaker,Porsche
+1962,,0,0,abate,Lotus-Climax
+1962,,0,0,shelly,Lotus-Climax
+1962,,0,0,tingle,Lotus-Climax
+1962,,0,0,bussinello,De Tomaso-Alfa Romeo
+1962,,0,0,ashmore,BRM
+1962,,0,0,schiller,Porsche
+1962,,0,0,collomb,Cooper-Climax
+1962,,0,0,kuhnke,Lotus-Borgward
+1963,1,54,7,clark,Lotus-Climax
+1963,2,29,2,hill,BRM
+1963,3,29,0,ginther,BRM
+1963,4,22,1,surtees,Ferrari
+1963,5,19,0,gurney,Brabham
+1963,6,17,0,mclaren,Cooper-Climax
+1963,7,14,0,jack_brabham,Lotus-Climax
+1963,8,9,0,maggs,Cooper-Climax
+1963,9,6,0,ireland,Lotus-BRM
+1963,10,6,0,bandini,BRM
+1963,11,6,0,bonnier,Cooper-Climax
+1963,12,3,0,mitter,Porsche
+1963,13,3,0,hall,Lotus-BRM
+1963,14,2,0,beaufort,Porsche
+1963,15,1,0,siffert,Lotus-BRM
+1963,16,1,0,trevor_taylor,Lotus-Climax
+1963,17,1,0,scarfiotti,Ferrari
+1963,,0,0,amon,Lola
+1963,,0,0,sharp,Lotus-BRM
+1963,,0,0,broeker,Stebro
+1963,,0,0,trintignant,Lola
+1963,,0,0,hailwood,Lotus-Climax
+1963,,0,0,settember,Scirocco
+1963,,0,0,love,Cooper-Climax
+1963,,0,0,collomb,Lotus-Climax
+1963,,0,0,phil_hill,ATS
+1963,,0,0,gregory,Lotus-BRM
+1963,,0,0,solana,BRM
+1963,,0,0,serrurier,LDS
+1963,,0,0,anderson,Lola
+1963,,0,0,blokdyk,Cooper-Maserati
+1963,,0,0,campbell-jones,Lotus-BRM
+1963,,0,0,spence,Lotus-Climax
+1963,,0,0,niemann,Lotus-Ford
+1963,,0,0,baghetti,ATS
+1963,,0,0,mairesse,Ferrari
+1963,,0,0,bianchi,Lola
+1963,,0,0,cabral,Cooper-Climax
+1963,,0,0,ward,Lotus-BRM
+1963,,0,0,rodriguez,Lotus-Climax
+1963,,0,0,burgess,Scirocco
+1963,,0,0,klerk,Alfa Romeo
+1963,,0,0,prophet,Brabham
+1963,,0,0,raby,Gilby
+1963,,0,0,pieterse,Lotus-Climax
+1963,,0,0,tingle,LDS
+1963,,0,0,arundell,Lotus-Climax
+1963,,0,0,driver,Lotus-BRM
+1963,,0,0,hansgen,Lotus-Climax
+1963,,0,0,dochnal,Cooper-Climax
+1963,,0,0,lederle,Lotus-Climax
+1963,,0,0,estefano,De Tomaso
+1963,,0,0,vos,Stebro
+1963,,0,0,monarch,Lotus-Climax
+1963,,0,0,seiffert,Lotus-BRM
+1963,,0,0,abate,Porsche
+1963,,0,0,starrabba,Lotus-Maserati
+1964,1,40,2,surtees,Ferrari
+1964,2,39,2,hill,BRM
+1964,3,32,3,clark,Lotus-Climax
+1964,4,23,1,bandini,Ferrari
+1964,5,23,0,ginther,BRM
+1964,6,19,2,gurney,Brabham-Climax
+1964,7,13,0,mclaren,Cooper-Climax
+1964,8,11,0,jack_brabham,Brabham-Climax
+1964,9,11,0,arundell,Lotus-Climax
+1964,10,7,0,siffert,Lotus-BRM
+1964,11,5,0,anderson,Brabham-Climax
+1964,12,4,0,spence,Lotus-Climax
+1964,13,4,0,maggs,BRM
+1964,14,4,0,ireland,Lotus-BRM
+1964,15,3,0,bonnier,Cooper-Climax
+1964,16,2,0,amon,Lotus-BRM
+1964,17,2,0,trintignant,BRM
+1964,18,2,0,hansgen,Lotus-Climax
+1964,19,1,0,phil_hill,Cooper-Climax
+1964,20,1,0,trevor_taylor,BRP
+1964,21,1,0,hailwood,Lotus-BRM
+1964,22,1,0,rodriguez,Ferrari
+1964,,0,0,baghetti,BRM
+1964,,0,0,mitter,Lotus-Climax
+1964,,0,0,scarfiotti,Ferrari
+1964,,0,0,solana,Lotus-Climax
+1964,,0,0,revson,Lotus-BRM
+1964,,0,0,sharp,Brabham-BRM
+1964,,0,0,bucknum,Honda
+1964,,0,0,taylor,Cooper-Climax
+1964,,0,0,rindt,Brabham-BRM
+1964,,0,0,andre_pilette,Scirocco
+1964,,0,0,cabral,Derrington
+1964,,0,0,beaufort,Porsche
+1964,,0,0,raby,Brabham-BRM
+1964,,0,0,barth,Cooper-Climax
+1964,,0,0,gardner,Brabham-Ford
+1964,,0,0,attwood,BRM
+1965,1,54,6,clark,Lotus-Climax
+1965,2,40,2,hill,BRM
+1965,3,33,1,stewart,BRM
+1965,4,25,0,gurney,Brabham-Climax
+1965,5,17,0,surtees,Ferrari
+1965,6,13,0,bandini,Ferrari
+1965,7,11,1,ginther,Honda
+1965,8,10,0,spence,Lotus-Climax
+1965,9,10,0,mclaren,Cooper-Climax
+1965,10,9,0,jack_brabham,Brabham-Climax
+1965,11,5,0,hulme,Brabham-Climax
+1965,12,5,0,siffert,Brabham-BRM
+1965,13,4,0,rindt,Cooper-Climax
+1965,14,2,0,rodriguez,Ferrari
+1965,15,2,0,bucknum,Honda
+1965,16,2,0,attwood,Lotus-BRM
+1965,,0,0,bonnier,Brabham-Climax
+1965,,0,0,gardner,Brabham-BRM
+1965,,0,0,gregory,BRM
+1965,,0,0,anderson,Brabham-Climax
+1965,,0,0,ireland,Lotus-BRM
+1965,,0,0,hawkins,Brabham-Ford
+1965,,0,0,bondurant,Ferrari
+1965,,0,0,klerk,Alfa Romeo
+1965,,0,0,maggs,Lotus-BRM
+1965,,0,0,raby,Brabham-BRM
+1965,,0,0,solana,Lotus-Climax
+1965,,0,0,bianchi,BRM
+1965,,0,0,vaccarella,Ferrari
+1965,,0,0,tingle,LDS-Alfa Romeo
+1965,,0,0,bussinello,BRM
+1965,,0,0,prophet,Brabham-Ford
+1965,,0,0,amon,Lotus-BRM
+1965,,0,0,mitter,Lotus-Climax
+1965,,0,0,hailwood,Lotus-BRM
+1965,,0,0,rhodes,Cooper-Climax
+1965,,0,0,geki,Lotus-Climax
+1965,,0,0,love,Cooper-Climax
+1965,,0,0,scarfiotti,Ferrari
+1965,,0,0,baghetti,Brabham-Climax
+1965,,0,0,bassi,BRM
+1965,,0,0,reed,RE
+1965,,0,0,clapham,Cooper-Maserati
+1965,,0,0,blignaut,Cooper-Climax
+1966,1,42,4,jack_brabham,Brabham-Repco
+1966,2,28,2,surtees,Ferrari
+1966,3,22,0,rindt,Cooper-Maserati
+1966,4,18,0,hulme,Brabham-Climax
+1966,5,17,0,hill,BRM
+1966,6,16,1,clark,Lotus-Climax
+1966,7,14,1,stewart,BRM
+1966,8,12,0,parkes,Ferrari
+1966,9,12,0,bandini,Ferrari
+1966,10,9,1,scarfiotti,Ferrari
+1966,11,5,0,ginther,Cooper-Maserati
+1966,12,4,0,gurney,Eagle-Climax
+1966,13,4,0,spence,Lotus-BRM
+1966,14,3,0,bondurant,BRM
+1966,15,3,0,siffert,Brabham-BRM
+1966,16,3,0,mclaren,McLaren-Ford
+1966,17,1,0,arundell,Lotus-BRM
+1966,18,1,0,bonnier,Cooper-Maserati
+1966,19,1,0,anderson,Brabham-Climax
+1966,20,1,0,taylor,Brabham-BRM
+1966,,0,0,irwin,Brabham-Climax
+1966,,0,0,bucknum,Honda
+1966,,0,0,amon,Cooper-Maserati
+1966,,0,0,ligier,Cooper-Maserati
+1966,,0,0,geki,Lotus-Climax
+1966,,0,0,lawrence,Cooper-Ferrari
+1966,,0,0,ireland,BRM
+1966,,0,0,rodriguez,Lotus-Climax
+1966,,0,0,baghetti,Ferrari
+1966,,0,0,vic_wilson,BRM
+1966,,0,0,solana,Cooper-Maserati
+1966,,0,0,trevor_taylor,Shannon
+1967,1,51,2,hulme,Brabham-Repco
+1967,2,48,2,jack_brabham,Brabham-Repco
+1967,3,41,4,clark,Lotus-BRM
+1967,4,20,1,surtees,Honda
+1967,5,20,0,amon,Ferrari
+1967,6,15,1,rodriguez,Cooper-Maserati
+1967,7,15,0,hill,Lotus-BRM
+1967,8,13,1,gurney,Eagle-Climax
+1967,9,10,0,stewart,BRM
+1967,10,9,0,spence,BRM
+1967,11,6,0,love,Cooper-Climax
+1967,12,6,0,siffert,Cooper-Maserati
+1967,13,6,0,rindt,Cooper-Maserati
+1967,14,3,0,mclaren,McLaren-BRM
+1967,15,3,0,bonnier,Cooper-Maserati
+1967,16,2,0,irwin,Lotus-BRM
+1967,17,2,0,anderson,Brabham-Climax
+1967,18,2,0,parkes,Ferrari
+1967,19,1,0,ickx,Matra
+1967,20,1,0,scarfiotti,Ferrari
+1967,21,1,0,ligier,Cooper-Maserati
+1967,,0,0,oliver,Lotus-Ford
+1967,,0,0,beltoise,Matra
+1967,,0,0,rees,Cooper-Maserati
+1967,,0,0,hobbs,BRM
+1967,,0,0,williams,Ferrari
+1967,,0,0,attwood,Cooper-Maserati
+1967,,0,0,fisher,Lotus-BRM
+1967,,0,0,charlton,Brabham-Climax
+1967,,0,0,bandini,Ferrari
+1967,,0,0,courage,Lotus-BRM
+1967,,0,0,botha,Brabham-Climax
+1967,,0,0,tingle,LDS-Climax
+1967,,0,0,baghetti,Lotus-Ford
+1967,,0,0,wietzes,Lotus-Ford
+1967,,0,0,hart,Protos
+1967,,0,0,gavin,Matra
+1967,,0,0,moser,Cooper-ATS
+1967,,0,0,pease,Eagle-Climax
+1967,,0,0,solana,Lotus-Ford
+1967,,0,0,hahne,Lola
+1967,,0,0,ahrens,Protos
+1967,,0,0,jo_schlesser,Matra
+1968,1,48,3,hill,Lotus-Ford
+1968,2,36,3,stewart,Matra-Ford
+1968,3,33,2,hulme,McLaren-BRM
+1968,4,27,1,ickx,Ferrari
+1968,5,22,1,mclaren,McLaren-Ford
+1968,6,18,0,rodriguez,BRM
+1968,7,12,1,siffert,Cooper-Maserati
+1968,8,12,0,surtees,Honda
+1968,9,11,0,beltoise,Matra-Ford
+1968,10,10,0,amon,Ferrari
+1968,11,9,1,clark,Lotus-Ford
+1968,12,8,0,rindt,Brabham-Repco
+1968,13,6,0,attwood,BRM
+1968,14,6,0,gavin,Matra-Ford
+1968,15,6,0,oliver,Lotus-Ford
+1968,16,6,0,scarfiotti,Cooper-BRM
+1968,17,5,0,bianchi,Cooper-BRM
+1968,18,5,0,elford,Cooper-BRM
+1968,19,4,0,redman,Cooper-Maserati
+1968,20,4,0,courage,BRM
+1968,21,3,0,gurney,Eagle-Weslake
+1968,22,3,0,bonnier,Cooper-Maserati
+1968,23,2,0,jack_brabham,Brabham-Repco
+1968,24,2,0,moser,Brabham-Repco
+1968,,0,0,pescarolo,Matra
+1968,,0,0,love,Brabham-Repco
+1968,,0,0,hahne,Lola
+1968,,0,0,ahrens,Brabham-Repco
+1968,,0,0,pretorius,Brabham-Climax
+1968,,0,0,hobbs,Honda
+1968,,0,0,widdows,Cooper-BRM
+1968,,0,0,tingle,LDS
+1968,,0,0,rooyen,Cooper-Climax
+1968,,0,0,jo_schlesser,Honda
+1968,,0,0,unser,BRM
+1968,,0,0,solana,Lotus-Ford
+1968,,0,0,brack,Lotus-Ford
+1968,,0,0,mario_andretti,Lotus-Ford
+1968,,0,0,bell,Ferrari
+1968,,0,0,adamich,Ferrari
+1968,,0,0,spence,BRM
+1968,,0,0,charlton,Brabham-Repco
+1969,1,63,6,stewart,Matra-Ford
+1969,2,37,2,ickx,Brabham-Ford
+1969,3,26,0,mclaren,McLaren-Ford
+1969,4,22,1,rindt,Lotus-Ford
+1969,5,21,0,beltoise,Matra-Ford
+1969,6,20,1,hulme,McLaren-Ford
+1969,7,19,1,hill,Lotus-Ford
+1969,8,16,0,courage,Brabham-Ford
+1969,9,15,0,siffert,Lotus-Ford
+1969,10,14,0,jack_brabham,Brabham-Ford
+1969,11,6,0,surtees,BRM
+1969,12,4,0,amon,Ferrari
+1969,13,3,0,attwood,Lotus-Ford
+1969,14,3,0,elford,Cooper-Maserati
+1969,15,3,0,rodriguez,BRM
+1969,16,1,0,moser,Brabham-Ford
+1969,17,1,0,oliver,BRM
+1969,18,1,0,gavin,Matra-Ford
+1969,,0,0,lovely,Lotus-Ford
+1969,,0,0,tingle,Brabham-Repco
+1969,,0,0,miles,Lotus-Ford
+1969,,0,0,brack,BRM
+1969,,0,0,klerk,Brabham-Repco
+1969,,0,0,eaton,BRM
+1969,,0,0,bonnier,Lotus-Ford
+1969,,0,0,mario_andretti,Lotus-Ford
+1969,,0,0,pease,Eagle-Climax
+1969,,0,0,love,Lotus-Ford
+1969,,0,0,bell,McLaren-Ford
+1969,,0,0,cordts,Brabham-Climax
+1969,,0,0,rooyen,McLaren-Ford
+1970,1,45,5,rindt,Team Lotus
+1970,2,40,3,ickx,Ferrari
+1970,3,33,1,regazzoni,Ferrari
+1970,4,27,0,hulme,McLaren-Ford
+1970,5,25,1,stewart,March
+1970,6,25,1,jack_brabham,Brabham
+1970,7,23,1,rodriguez,BRM
+1970,8,23,0,amon,March
+1970,9,16,0,beltoise,Matra
+1970,10,12,1,emerson_fittipaldi,Team Lotus
+1970,11,10,0,stommelen,Brabham
+1970,12,8,0,pescarolo,Matra
+1970,13,7,0,hill,Team Lotus
+1970,14,6,0,mclaren,McLaren-Ford
+1970,15,4,0,wisell,Team Lotus
+1970,16,4,0,mario_andretti,March
+1970,17,3,0,giunti,Ferrari
+1970,18,3,0,surtees,McLaren-Ford
+1970,19,2,0,miles,Team Lotus
+1970,20,2,0,oliver,BRM
+1970,21,2,0,gavin,March
+1970,22,1,0,cevert,March
+1970,23,1,0,gethin,McLaren-Ford
+1970,24,1,0,gurney,McLaren-Ford
+1970,25,1,0,bell,Brabham
+1970,,0,0,siffert,March
+1970,,0,0,peterson,March
+1970,,0,0,adamich,McLaren-Alfa Romeo
+1970,,0,0,love,Team Lotus
+1970,,0,0,eaton,BRM
+1970,,0,0,klerk,Brabham
+1970,,0,0,charlton,Team Lotus
+1970,,0,0,courage,De Tomaso
+1970,,0,0,lovely,Team Lotus
+1970,,0,0,schenken,De Tomaso
+1970,,0,0,bonnier,McLaren-Ford
+1970,,0,0,moser,Bellasi
+1970,,0,0,hutchison,Brabham
+1971,1,62,6,stewart,Tyrrell
+1971,2,33,0,peterson,March-Ford
+1971,3,26,1,cevert,Tyrrell
+1971,4,19,1,ickx,Ferrari
+1971,5,19,1,siffert,BRM
+1971,6,16,0,emerson_fittipaldi,Lotus-Ford
+1971,7,13,0,regazzoni,Ferrari
+1971,8,12,1,mario_andretti,Ferrari
+1971,9,9,1,gethin,McLaren
+1971,10,9,0,rodriguez,BRM
+1971,11,9,0,amon,Matra
+1971,12,9,0,wisell,Lotus-Ford
+1971,13,9,0,hulme,McLaren
+1971,14,5,0,schenken,Brabham
+1971,15,5,0,ganley,BRM
+1971,16,4,0,donohue,McLaren
+1971,17,4,0,pescarolo,March-Ford
+1971,18,3,0,hailwood,Surtees
+1971,19,3,0,surtees,Surtees
+1971,20,3,0,stommelen,Surtees
+1971,21,2,0,hill,Brabham
+1971,22,1,0,beltoise,Matra
+1971,,0,0,oliver,McLaren
+1971,,0,0,redman,Surtees
+1971,,0,0,lennep,Surtees
+1971,,0,0,bonnier,McLaren
+1971,,0,0,hobbs,McLaren
+1971,,0,0,galli,March-Ford
+1971,,0,0,marko,BRM
+1971,,0,0,adamich,March-Alfa Romeo
+1971,,0,0,elford,BRM
+1971,,0,0,mazet,March-Ford
+1971,,0,0,Cannoc,BRM
+1971,,0,0,eaton,BRM
+1971,,0,0,jarier,March-Ford
+1971,,0,0,beuttler,March-Ford
+1971,,0,0,barber,March-Ford
+1971,,0,0,jean,March-Ford
+1971,,0,0,roig,March-Ford
+1971,,0,0,lauda,March-Ford
+1971,,0,0,lovely,Lotus-Ford
+1971,,0,0,charlton,Brabham
+1971,,0,0,bell,Surtees
+1971,,0,0,love,March-Ford
+1971,,0,0,moser,Bellasi
+1971,,0,0,pretorius,Brabham
+1971,,0,0,walker,Lotus-Pratt &amp; Whitney
+1971,,0,0,craft,Brabham
+1971,,0,0,posey,Surtees
+1971,,0,0,revson,Tyrrell
+1972,1,61,5,emerson_fittipaldi,Team Lotus
+1972,2,45,4,stewart,Tyrrell
+1972,3,39,1,hulme,McLaren
+1972,4,27,1,ickx,Ferrari
+1972,5,23,0,revson,McLaren
+1972,6,15,0,cevert,Tyrrell
+1972,7,15,0,regazzoni,Ferrari
+1972,8,13,0,hailwood,Surtees
+1972,9,12,0,peterson,March
+1972,10,12,0,amon,Matra
+1972,11,9,1,beltoise,BRM
+1972,12,4,0,mario_andretti,Ferrari
+1972,13,4,0,ganley,BRM
+1972,14,4,0,redman,McLaren
+1972,15,4,0,hill,Brabham
+1972,16,3,0,reutemann,Brabham
+1972,17,3,0,adamich,Surtees
+1972,18,3,0,pace,March
+1972,19,2,0,schenken,Surtees
+1972,20,1,0,merzario,Ferrari
+1972,21,1,0,gethin,BRM
+1972,,0,0,wilson_fittipaldi,Brabham
+1972,,0,0,lauda,March
+1972,,0,0,depailler,Tyrrell
+1972,,0,0,marko,BRM
+1972,,0,0,beuttler,March
+1972,,0,0,pescarolo,March
+1972,,0,0,walker,Team Lotus
+1972,,0,0,scheckter,McLaren
+1972,,0,0,stommelen,March
+1972,,0,0,wisell,BRM
+1972,,0,0,posey,Surtees
+1972,,0,0,galli,Tecno
+1972,,0,0,barber,March
+1972,,0,0,love,Surtees
+1972,,0,0,surtees,Surtees
+1972,,0,0,oliver,BRM
+1972,,0,0,roig,BRM
+1972,,0,0,migault,Connew
+1972,,0,0,charlton,Team Lotus
+1972,,0,0,brack,BRM
+1972,,0,0,bell,Tecno
+1973,1,71,5,stewart,Tyrrell
+1973,2,55,3,emerson_fittipaldi,Team Lotus
+1973,3,52,4,peterson,Team Lotus
+1973,4,47,0,cevert,Tyrrell
+1973,5,38,2,revson,McLaren
+1973,6,26,1,hulme,McLaren
+1973,7,16,0,reutemann,Brabham
+1973,8,14,0,hunt,March
+1973,9,12,0,ickx,Ferrari
+1973,10,9,0,beltoise,BRM
+1973,11,7,0,pace,Surtees
+1973,12,6,0,merzario,Ferrari
+1973,13,5,0,follmer,Shadow
+1973,14,4,0,oliver,Shadow
+1973,15,3,0,adamich,Surtees
+1973,16,3,0,wilson_fittipaldi,Brabham
+1973,17,2,0,lauda,BRM
+1973,18,2,0,regazzoni,BRM
+1973,19,1,0,ganley,Iso Marlboro
+1973,20,1,0,lennep,Iso Marlboro
+1973,21,1,0,amon,Tecno
+1973,,0,0,hailwood,Surtees
+1973,,0,0,beuttler,March
+1973,,0,0,mass,Surtees
+1973,,0,0,pescarolo,March
+1973,,0,0,hill,Shadow
+1973,,0,0,galli,Iso Marlboro
+1973,,0,0,purley,March
+1973,,0,0,scheckter,McLaren
+1973,,0,0,stommelen,Brabham
+1973,,0,0,jarier,March
+1973,,0,0,bueno,Surtees
+1973,,0,0,opel,Ensign
+1973,,0,0,schenken,Iso Marlboro
+1973,,0,0,keizan,Tyrrell
+1973,,0,0,watson,Brabham
+1973,,0,0,pretorius,Iso Marlboro
+1973,,0,0,williamson,March
+1973,,0,0,wisell,March
+1973,,0,0,charlton,Team Lotus
+1973,,0,0,redman,Shadow
+1973,,0,0,gethin,BRM
+1973,,0,0,mcrae,Iso Marlboro
+1974,1,55,3,emerson_fittipaldi,McLaren
+1974,2,52,1,regazzoni,Ferrari
+1974,3,45,2,scheckter,Tyrrell
+1974,4,38,2,lauda,Ferrari
+1974,5,35,3,peterson,Team Lotus
+1974,6,32,3,reutemann,Brabham
+1974,7,20,1,hulme,McLaren
+1974,8,15,0,hunt,March
+1974,9,14,0,depailler,Tyrrell
+1974,10,12,0,ickx,Team Lotus
+1974,11,12,0,hailwood,McLaren
+1974,12,11,0,pace,Surtees
+1974,13,10,0,beltoise,BRM
+1974,14,6,0,jarier,Shadow
+1974,15,6,0,watson,Brabham
+1974,16,5,0,stuck,March
+1974,17,4,0,merzario,Iso Marlboro
+1974,18,1,0,hill,Lola
+1974,19,1,0,pryce,Token
+1974,20,1,0,brambilla,March
+1974,,0,0,edwards,Lola
+1974,,0,0,hobbs,McLaren
+1974,,0,0,mass,Surtees
+1974,,0,0,redman,Shadow
+1974,,0,0,mario_andretti,Parnelli
+1974,,0,0,ganley,March
+1974,,0,0,belso,Iso Marlboro
+1974,,0,0,opel,Brabham
+1974,,0,0,pescarolo,BRM
+1974,,0,0,amon,Amon
+1974,,0,0,quester,Surtees
+1974,,0,0,schenken,Trojan
+1974,,0,0,koinigg,Brabham
+1974,,0,0,stommelen,Lola
+1974,,0,0,bell,Surtees
+1974,,0,0,donohue,Penske
+1974,,0,0,ian_scheckter,Team Lotus
+1974,,0,0,migault,BRM
+1974,,0,0,ashley,Token
+1974,,0,0,keizan,Tyrrell
+1974,,0,0,lennep,Iso Marlboro
+1974,,0,0,robarts,Brabham
+1974,,0,0,schuppan,Ensign
+1974,,0,0,laffite,Iso Marlboro
+1974,,0,0,pilette,Brabham
+1974,,0,0,charlton,McLaren
+1974,,0,0,wisell,March
+1974,,0,0,wilds,March
+1974,,0,0,dolhem,Surtees
+1974,,0,0,revson,Shadow
+1974,,0,0,kinnunen,Surtees
+1974,,0,0,driver,Team Lotus
+1974,,0,0,larrousse,Brabham
+1974,,0,0,roos,Shadow
+1974,,0,0,gethin,Lola
+1974,,0,0,wietzes,Brabham
+1975,1,64.5,5,lauda,Ferrari
+1975,2,45,2,emerson_fittipaldi,McLaren
+1975,3,37,1,reutemann,Brabham
+1975,4,33,1,hunt,Hesketh
+1975,5,25,1,regazzoni,Ferrari
+1975,6,24,1,pace,Brabham
+1975,7,20,1,scheckter,Tyrrell
+1975,8,20,1,mass,McLaren
+1975,9,12,0,depailler,Tyrrell
+1975,10,8,0,pryce,Shadow-Ford
+1975,11,6.5,1,brambilla,March
+1975,12,6,0,laffite,Williams
+1975,13,6,0,peterson,Team Lotus
+1975,14,5,0,mario_andretti,Parnelli
+1975,15,4,0,donohue,Penske
+1975,16,3,0,ickx,Team Lotus
+1975,17,2,0,jones,Hesketh
+1975,18,1.5,0,jarier,Shadow-Ford
+1975,19,1,0,brise,Williams
+1975,20,1,0,lennep,Ensign
+1975,21,0.5,0,lombardi,March
+1975,,0,0,stommelen,Lola
+1975,,0,0,watson,Surtees
+1975,,0,0,ertl,Hesketh
+1975,,0,0,stuck,March
+1975,,0,0,evans,BRM
+1975,,0,0,wilson_fittipaldi,Fittipaldi
+1975,,0,0,hill,Lola
+1975,,0,0,lunger,Hesketh
+1975,,0,0,palm,Hesketh
+1975,,0,0,merzario,Williams
+1975,,0,0,tunmer,Team Lotus
+1975,,0,0,amon,Ensign
+1975,,0,0,ian_scheckter,Tyrrell
+1975,,0,0,jabouille,Tyrrell
+1975,,0,0,crawford,Team Lotus
+1975,,0,0,keizan,Team Lotus
+1975,,0,0,charlton,McLaren
+1975,,0,0,magee,Williams
+1975,,0,0,zorzi,Williams
+1975,,0,0,henton,Team Lotus
+1975,,0,0,nicholson,Lyncar
+1975,,0,0,morgan,Surtees
+1975,,0,0,migault,Lola
+1975,,0,0,wunderink,Ensign
+1975,,0,0,wilds,BRM
+1975,,0,0,schuppan,Embassy Hill
+1975,,0,0,leclere,Tyrrell
+1975,,0,0,vonlanthen,Williams
+1975,,0,0,fushida,Maki
+1975,,0,0,ashley,Williams
+1976,1,66,6,hunt,McLaren
+1976,2,64,5,lauda,Ferrari
+1976,3,48,1,scheckter,Tyrrell
+1976,4,39,0,depailler,Tyrrell
+1976,5,31,1,regazzoni,Ferrari
+1976,6,22,1,mario_andretti,Team Lotus
+1976,7,20,1,watson,Penske
+1976,8,20,0,laffite,Ligier
+1976,9,19,0,mass,McLaren
+1976,10,11,0,nilsson,Team Lotus
+1976,11,10,1,peterson,Team Lotus
+1976,12,10,0,pryce,Shadow
+1976,13,8,0,stuck,March
+1976,14,7,0,pace,Brabham-Alfa Romeo
+1976,15,7,0,jones,Surtees
+1976,16,3,0,reutemann,Brabham-Alfa Romeo
+1976,17,3,0,emerson_fittipaldi,Fittipaldi
+1976,18,2,0,amon,Ensign
+1976,19,1,0,brambilla,March
+1976,20,1,0,stommelen,Brabham-Alfa Romeo
+1976,,0,0,ertl,Hesketh
+1976,,0,0,jarier,Shadow
+1976,,0,0,ickx,Wolf
+1976,,0,0,perkins,Boro
+1976,,0,0,pescarolo,Surtees
+1976,,0,0,merzario,March
+1976,,0,0,zorzi,Williams
+1976,,0,0,takahara,Surtees
+1976,,0,0,leclere,Wolf
+1976,,0,0,lunger,Surtees
+1976,,0,0,evans,Team Lotus
+1976,,0,0,pesenti_rossi,Tyrrell
+1976,,0,0,hoffmann,Fittipaldi
+1976,,0,0,hasemi,Kojima
+1976,,0,0,lombardi,March
+1976,,0,0,kessel,Brabham-Ford
+1976,,0,0,ribeiro,Hesketh
+1976,,0,0,brown,Wolf
+1976,,0,0,edwards,Hesketh
+1976,,0,0,neve,Brabham-Ford
+1976,,0,0,binder,Ensign
+1976,,0,0,hayje,Penske
+1976,,0,0,hoshino,Tyrrell
+1976,,0,0,ashley,BRM
+1976,,0,0,ian_scheckter,Tyrrell
+1976,,0,0,andersson,Surtees
+1976,,0,0,stuppacher,Tyrrell
+1977,1,70,3,lauda,Ferrari
+1977,2,55,3,scheckter,Wolf
+1977,3,47,4,mario_andretti,Team Lotus
+1977,4,41,1,reutemann,Ferrari
+1977,5,40,3,hunt,McLaren
+1977,6,25,0,mass,McLaren
+1977,7,22,1,jones,Shadow
+1977,8,20,1,nilsson,Team Lotus
+1977,9,20,0,depailler,Tyrrell
+1977,10,18,1,laffite,Ligier
+1977,11,12,0,stuck,March
+1977,12,11,0,emerson_fittipaldi,Fittipaldi
+1977,13,9,0,watson,Brabham
+1977,14,7,0,peterson,Tyrrell
+1977,15,6,0,pace,Brabham
+1977,16,6,0,brambilla,Surtees
+1977,17,5,0,regazzoni,Ensign
+1977,18,5,0,tambay,Surtees
+1977,19,1,0,jarier,Penske
+1977,20,1,0,patrese,Shadow
+1977,21,1,0,zorzi,Shadow
+1977,,0,0,keegan,Hesketh
+1977,,0,0,neve,March
+1977,,0,0,schuppan,Surtees
+1977,,0,0,hoffmann,Fittipaldi
+1977,,0,0,ongais,Penske
+1977,,0,0,ribeiro,March
+1977,,0,0,binder,Surtees
+1977,,0,0,lunger,March
+1977,,0,0,ertl,Hesketh
+1977,,0,0,oliver,Shadow
+1977,,0,0,takahashi,Tyrrell
+1977,,0,0,ian_scheckter,March
+1977,,0,0,henton,March
+1977,,0,0,ickx,Ensign
+1977,,0,0,gilles_villeneuve,McLaren
+1977,,0,0,hoshino,Kojima
+1977,,0,0,perkins,BRM
+1977,,0,0,purley,LEC
+1977,,0,0,villota,McLaren
+1977,,0,0,merzario,March
+1977,,0,0,ashley,Hesketh
+1977,,0,0,pryce,Shadow
+1977,,0,0,giacomelli,McLaren
+1977,,0,0,jabouille,Renault
+1977,,0,0,hayje,March
+1977,,0,0,rebaque,Hesketh
+1977,,0,0,takahara,Kojima
+1978,1,64,6,mario_andretti,Team Lotus
+1978,2,51,2,peterson,Team Lotus
+1978,3,48,4,reutemann,Ferrari
+1978,4,44,2,lauda,Brabham
+1978,5,34,1,depailler,Tyrrell
+1978,6,25,0,watson,Brabham
+1978,7,24,0,scheckter,Wolf
+1978,8,19,0,laffite,Ligier
+1978,9,17,1,gilles_villeneuve,Ferrari
+1978,10,17,0,emerson_fittipaldi,Fittipaldi
+1978,11,11,0,jones,Williams
+1978,12,11,0,patrese,Arrows
+1978,13,8,0,hunt,McLaren
+1978,14,8,0,tambay,McLaren
+1978,15,7,0,pironi,Tyrrell
+1978,16,4,0,regazzoni,Shadow
+1978,17,3,0,jabouille,Renault
+1978,18,2,0,stuck,Shadow
+1978,19,1,0,brambilla,Surtees
+1978,20,1,0,daly,Hesketh
+1978,21,1,0,rebaque,Team Lotus
+1978,,0,0,lunger,McLaren
+1978,,0,0,giacomelli,McLaren
+1978,,0,0,mass,ATS
+1978,,0,0,jarier,ATS
+1978,,0,0,arnoux,Martini
+1978,,0,0,stommelen,Arrows
+1978,,0,0,piquet,Ensign
+1978,,0,0,keke_rosberg,Theodore
+1978,,0,0,keegan,Surtees
+1978,,0,0,ertl,Ensign
+1978,,0,0,ickx,Ensign
+1978,,0,0,rahal,Wolf
+1978,,0,0,merzario,Merzario
+1978,,0,0,bleekemolen,ATS
+1978,,0,0,ongais,Ensign
+1978,,0,0,leoni,Ensign
+1978,,0,0,cheever,Theodore
+1979,1,51,3,scheckter,Ferrari
+1979,2,47,3,gilles_villeneuve,Ferrari
+1979,3,40,4,jones,Williams
+1979,4,36,2,laffite,Ligier
+1979,5,29,1,regazzoni,Williams
+1979,6,20,1,depailler,Ligier
+1979,7,20,0,reutemann,Team Lotus
+1979,8,17,0,arnoux,Renault
+1979,9,15,0,watson,McLaren
+1979,10,14,0,pironi,Tyrrell
+1979,11,14,0,jarier,Tyrrell
+1979,12,14,0,mario_andretti,Team Lotus
+1979,13,9,1,jabouille,Renault
+1979,14,4,0,lauda,Brabham-Alfa Romeo
+1979,15,3,0,angelis,Shadow
+1979,16,3,0,piquet,Brabham-Alfa Romeo
+1979,17,3,0,ickx,Ligier
+1979,18,3,0,mass,Arrows
+1979,19,2,0,stuck,ATS
+1979,20,2,0,patrese,Arrows
+1979,21,1,0,emerson_fittipaldi,Fittipaldi
+1979,,0,0,rebaque,Team Lotus
+1979,,0,0,tambay,McLaren
+1979,,0,0,zunino,Brabham-Ford
+1979,,0,0,lees,Tyrrell
+1979,,0,0,daly,Ensign
+1979,,0,0,hunt,Wolf
+1979,,0,0,lammers,Shadow
+1979,,0,0,keke_rosberg,Wolf
+1979,,0,0,brambilla,Alfa Romeo
+1979,,0,0,gaillard,Ensign
+1979,,0,0,giacomelli,Alfa Romeo
+1979,,0,0,surer,Ensign
+1979,,0,0,merzario,Merzario
+1980,1,67,5,jones,Williams
+1980,2,54,3,piquet,Brabham
+1980,3,42,1,reutemann,Williams
+1980,4,34,1,laffite,Ligier
+1980,5,32,1,pironi,Ligier
+1980,6,29,2,arnoux,Renault
+1980,7,13,0,angelis,Team Lotus
+1980,8,9,1,jabouille,Renault
+1980,9,7,0,patrese,Arrows
+1980,10,6,0,keke_rosberg,Fittipaldi
+1980,11,6,0,watson,McLaren
+1980,12,6,0,daly,Tyrrell
+1980,13,6,0,jarier,Tyrrell
+1980,14,6,0,gilles_villeneuve,Ferrari
+1980,15,5,0,emerson_fittipaldi,Fittipaldi
+1980,16,5,0,prost,McLaren
+1980,17,4,0,mass,Arrows
+1980,18,4,0,giacomelli,Alfa Romeo
+1980,19,2,0,scheckter,Ferrari
+1980,20,1,0,mario_andretti,Team Lotus
+1980,21,1,0,rebaque,Brabham
+1980,,0,0,surer,ATS
+1980,,0,0,zunino,Brabham
+1980,,0,0,keegan,Williams
+1980,,0,0,regazzoni,Ensign
+1980,,0,0,lammers,ATS
+1980,,0,0,cheever,Osella
+1980,,0,0,lees,Shadow
+1980,,0,0,depailler,Alfa Romeo
+1980,,0,0,mansell,Team Lotus
+1980,,0,0,brambilla,Alfa Romeo
+1980,,0,0,cesaris,Alfa Romeo
+1980,,0,0,needell,Ensign
+1980,,0,0,thackwell,Arrows
+1981,1,50,3,piquet,Brabham
+1981,2,49,2,reutemann,Williams
+1981,3,46,2,jones,Williams
+1981,4,44,2,laffite,Ligier
+1981,5,43,3,prost,Renault
+1981,6,27,1,watson,McLaren
+1981,7,25,2,gilles_villeneuve,Ferrari
+1981,8,14,0,angelis,Team Lotus
+1981,9,11,0,arnoux,Renault
+1981,10,11,0,rebaque,Brabham
+1981,11,10,0,patrese,Arrows
+1981,12,10,0,cheever,Tyrrell
+1981,13,9,0,pironi,Ferrari
+1981,14,8,0,mansell,Team Lotus
+1981,15,7,0,giacomelli,Alfa Romeo
+1981,16,4,0,surer,Ensign
+1981,17,3,0,mario_andretti,Alfa Romeo
+1981,18,1,0,cesaris,McLaren
+1981,19,1,0,tambay,Theodore
+1981,20,1,0,borgudd,ATS
+1981,21,1,0,salazar,March
+1981,,0,0,jarier,Ligier
+1981,,0,0,daly,March
+1981,,0,0,stohr,Arrows
+1981,,0,0,serra,Fittipaldi
+1981,,0,0,keke_rosberg,Fittipaldi
+1981,,0,0,alboreto,Tyrrell
+1981,,0,0,henton,Toleman
+1981,,0,0,lammers,ATS
+1981,,0,0,zunino,Tyrrell
+1981,,0,0,ghinzani,Osella
+1981,,0,0,jabouille,Ligier
+1981,,0,0,warwick,Toleman
+1981,,0,0,gabbiani,Osella
+1981,,0,0,guerra,Osella
+1981,,0,0,londono,Ensign
+1982,1,44,1,keke_rosberg,Williams
+1982,2,39,2,pironi,Ferrari
+1982,3,39,2,watson,McLaren
+1982,4,34,2,prost,Renault
+1982,5,30,2,lauda,McLaren
+1982,6,28,2,arnoux,Renault
+1982,7,25,1,tambay,Ferrari
+1982,8,25,1,alboreto,Tyrrell
+1982,9,23,1,angelis,Team Lotus
+1982,10,21,1,patrese,Brabham
+1982,11,20,1,piquet,Brabham
+1982,12,15,0,cheever,Ligier
+1982,13,8,0,daly,Theodore
+1982,14,7,0,mansell,Team Lotus
+1982,15,6,0,gilles_villeneuve,Ferrari
+1982,16,6,0,reutemann,Williams
+1982,17,5,0,cesaris,Alfa Romeo
+1982,18,5,0,laffite,Ligier
+1982,19,4,0,mario_andretti,Williams
+1982,20,3,0,jarier,Osella
+1982,21,3,0,surer,Arrows
+1982,22,2,0,giacomelli,Alfa Romeo
+1982,23,2,0,salazar,ATS
+1982,24,2,0,manfred_winkelhock,ATS
+1982,25,2,0,baldi,Arrows
+1982,26,1,0,serra,Fittipaldi
+1982,,0,0,henton,Arrows
+1982,,0,0,mass,March
+1982,,0,0,borgudd,Tyrrell
+1982,,0,0,boesel,March
+1982,,0,0,guerrero,Ensign
+1982,,0,0,warwick,Toleman
+1982,,0,0,keegan,March
+1982,,0,0,lees,Theodore
+1982,,0,0,fabi,Toleman
+1982,,0,0,paletti,Osella
+1982,,0,0,byrne,Theodore
+1982,,0,0,lammers,Theodore
+1983,1,59,3,piquet,Brabham
+1983,2,57,4,prost,Renault
+1983,3,49,3,arnoux,Ferrari
+1983,4,40,1,tambay,Ferrari
+1983,5,27,1,keke_rosberg,Williams
+1983,6,22,1,watson,McLaren
+1983,7,22,0,cheever,Renault
+1983,8,15,0,cesaris,Alfa Romeo
+1983,9,13,1,patrese,Brabham
+1983,10,12,0,lauda,McLaren
+1983,11,11,0,laffite,Williams
+1983,12,10,1,alboreto,Tyrrell
+1983,13,10,0,mansell,Team Lotus
+1983,14,9,0,warwick,Toleman
+1983,15,4,0,surer,Arrows
+1983,16,3,0,baldi,Alfa Romeo
+1983,17,2,0,sullivan,Tyrrell
+1983,18,2,0,angelis,Team Lotus
+1983,19,1,0,giacomelli,Toleman
+1983,20,1,0,cecotto,Theodore
+1983,,0,0,boutsen,Arrows
+1983,,0,0,serra,Arrows
+1983,,0,0,jarier,Ligier
+1983,,0,0,boesel,Ligier
+1983,,0,0,johansson,Spirit
+1983,,0,0,manfred_winkelhock,ATS
+1983,,0,0,corrado_fabi,Osella
+1983,,0,0,ghinzani,Osella
+1983,,0,0,guerrero,Theodore
+1983,,0,0,acheson,RAM
+1983,,0,0,salazar,RAM
+1983,,0,0,palmer,Williams
+1983,,0,0,jones,Arrows
+1984,1,72,5,lauda,McLaren
+1984,2,71.5,7,prost,McLaren
+1984,3,34,0,angelis,Team Lotus
+1984,4,30.5,1,alboreto,Ferrari
+1984,5,29,2,piquet,Brabham
+1984,6,27,0,arnoux,Ferrari
+1984,7,23,0,warwick,Renault
+1984,8,20.5,1,keke_rosberg,Williams
+1984,9,13,0,senna,Toleman
+1984,10,13,0,mansell,Team Lotus
+1984,11,11,0,tambay,Renault
+1984,12,9,0,fabi,Brabham
+1984,13,8,0,patrese,Alfa Romeo
+1984,14,5,0,laffite,Williams
+1984,15,5,0,boutsen,Arrows
+1984,16,3,0,cheever,Alfa Romeo
+1984,17,3,0,johansson,Tyrrell
+1984,18,3,0,cesaris,Ligier
+1984,19,2,0,ghinzani,Osella
+1984,20,1,0,surer,Arrows
+1984,,0,0,gartner,Osella
+1984,,0,0,berger,ATS
+1984,,0,0,hesnault,Ligier
+1984,,0,0,corrado_fabi,Brabham
+1984,,0,0,baldi,Spirit
+1984,,0,0,manfred_winkelhock,ATS
+1984,,0,0,palmer,RAM
+1984,,0,0,rothengatter,Spirit
+1984,,0,0,cecotto,Toleman
+1984,,0,0,alliot,RAM
+1984,,0,0,brundle,Tyrrell
+1984,,0,0,bellof,Tyrrell
+1984,,0,0,streiff,Renault
+1984,,0,0,thackwell,RAM
+1985,1,73,5,prost,McLaren
+1985,2,53,2,alboreto,Ferrari
+1985,3,40,2,keke_rosberg,Williams
+1985,4,38,2,senna,Team Lotus
+1985,5,33,1,angelis,Team Lotus
+1985,6,31,2,mansell,Williams
+1985,7,26,0,johansson,Tyrrell
+1985,8,21,1,piquet,Brabham
+1985,9,16,0,laffite,Ligier
+1985,10,14,1,lauda,McLaren
+1985,11,11,0,boutsen,Arrows
+1985,12,11,0,tambay,Renault
+1985,13,5,0,surer,Brabham
+1985,14,5,0,warwick,Renault
+1985,15,4,0,streiff,Ligier
+1985,16,4,0,bellof,Tyrrell
+1985,17,3,0,cesaris,Ligier
+1985,18,3,0,capelli,Tyrrell
+1985,19,3,0,arnoux,Ferrari
+1985,20,3,0,berger,Arrows
+1985,,0,0,brundle,Tyrrell
+1985,,0,0,rothengatter,Osella
+1985,,0,0,watson,McLaren
+1985,,0,0,martini,Minardi
+1985,,0,0,patrese,Alfa Romeo
+1985,,0,0,cheever,Alfa Romeo
+1985,,0,0,ghinzani,Osella
+1985,,0,0,alliot,RAM
+1985,,0,0,palmer,Zakspeed
+1985,,0,0,manfred_winkelhock,RAM
+1985,,0,0,fabi,Toleman
+1985,,0,0,danner,Zakspeed
+1985,,0,0,acheson,RAM
+1985,,0,0,baldi,Spirit
+1985,,0,0,jones,Lola
+1985,,0,0,hesnault,Brabham
+1986,1,72,4,prost,McLaren
+1986,2,70,5,mansell,Williams
+1986,3,69,4,piquet,Williams
+1986,4,55,2,senna,Team Lotus
+1986,5,23,0,johansson,Ferrari
+1986,6,22,0,keke_rosberg,McLaren
+1986,7,17,1,berger,Benetton
+1986,8,14,0,laffite,Ligier
+1986,9,14,0,alboreto,Ferrari
+1986,10,14,0,arnoux,Ligier
+1986,11,8,0,brundle,Tyrrell
+1986,12,4,0,jones,Lola
+1986,13,3,0,dumfries,Team Lotus
+1986,14,3,0,streiff,Tyrrell
+1986,15,2,0,tambay,Lola
+1986,16,2,0,fabi,Benetton
+1986,17,2,0,patrese,Brabham
+1986,18,1,0,danner,Osella
+1986,19,1,0,alliot,Ligier
+1986,,0,0,boutsen,Arrows
+1986,,0,0,warwick,Brabham
+1986,,0,0,palmer,Zakspeed
+1986,,0,0,rothengatter,Zakspeed
+1986,,0,0,cesaris,Minardi
+1986,,0,0,angelis,Brabham
+1986,,0,0,surer,Arrows
+1986,,0,0,ghinzani,Osella
+1986,,0,0,berg,Osella
+1986,,0,0,nannini,Minardi
+1986,,0,0,caffi,Osella
+1986,,0,0,capelli,AGS
+1986,,0,0,cheever,Lola
+1987,1,73,3,piquet,Williams
+1987,2,61,6,mansell,Williams
+1987,3,57,2,senna,Team Lotus
+1987,4,46,3,prost,McLaren
+1987,5,36,2,berger,Ferrari
+1987,6,30,0,johansson,McLaren
+1987,7,17,0,alboreto,Ferrari
+1987,8,16,0,boutsen,Benetton
+1987,9,12,0,fabi,Benetton
+1987,10,8,0,cheever,Arrows
+1987,11,7,0,palmer,Tyrrell
+1987,12,7,0,satoru_nakajima,Team Lotus
+1987,13,6,0,patrese,Brabham
+1987,14,4,0,cesaris,Brabham
+1987,15,4,0,streiff,Tyrrell
+1987,16,3,0,warwick,Arrows
+1987,17,3,0,alliot,Larrousse
+1987,18,2,0,brundle,Zakspeed
+1987,19,1,0,capelli,March
+1987,20,1,0,arnoux,Ligier
+1987,21,1,0,moreno,AGS
+1987,,0,0,dalmas,Larrousse
+1987,,0,0,danner,Zakspeed
+1987,,0,0,ghinzani,Ligier
+1987,,0,0,fabre,AGS
+1987,,0,0,nannini,Minardi
+1987,,0,0,caffi,Osella
+1987,,0,0,campos,Minardi
+1987,,0,0,forini,Osella
+1987,,0,0,tarquini,Osella
+1987,,0,0,modena,Brabham
+1987,,0,0,larini,Coloni
+1988,1,90,8,senna,McLaren
+1988,2,87,7,prost,McLaren
+1988,3,41,1,berger,Ferrari
+1988,4,27,0,boutsen,Benetton
+1988,5,24,0,alboreto,Ferrari
+1988,6,22,0,piquet,Team Lotus
+1988,7,17,0,capelli,March
+1988,8,17,0,warwick,Arrows
+1988,9,12,0,mansell,Williams
+1988,10,12,0,nannini,Benetton
+1988,11,8,0,patrese,Williams
+1988,12,6,0,cheever,Arrows
+1988,13,5,0,gugelmin,March
+1988,14,5,0,palmer,Tyrrell
+1988,15,3,0,cesaris,Rial
+1988,16,1,0,satoru_nakajima,Team Lotus
+1988,17,1,0,martini,Minardi
+1988,,0,0,dalmas,Larrousse
+1988,,0,0,caffi,Dallara
+1988,,0,0,brundle,Williams
+1988,,0,0,streiff,AGS
+1988,,0,0,sala,Minardi
+1988,,0,0,tarquini,Coloni
+1988,,0,0,alliot,Larrousse
+1988,,0,0,johansson,Ligier
+1988,,0,0,bailey,Tyrrell
+1988,,0,0,larini,Osella
+1988,,0,0,arnoux,Ligier
+1988,,0,0,modena,Euro Brun
+1988,,0,0,schlesser,Williams
+1988,,0,0,schneider,Zakspeed
+1988,,0,0,larrauri,Euro Brun
+1988,,0,0,ghinzani,Zakspeed
+1988,,0,0,campos,Minardi
+1988,,0,0,suzuki,Larrousse
+1989,1,76,4,prost,McLaren
+1989,2,60,6,senna,McLaren
+1989,3,40,0,patrese,Williams
+1989,4,38,2,mansell,Ferrari
+1989,5,37,2,boutsen,Williams
+1989,6,32,1,nannini,Benetton
+1989,7,21,1,berger,Ferrari
+1989,8,12,0,piquet,Team Lotus
+1989,9,8,0,alesi,Tyrrell
+1989,10,7,0,warwick,Arrows
+1989,11,6,0,cheever,Arrows
+1989,12,6,0,johansson,Onyx
+1989,13,6,0,alboreto,Tyrrell
+1989,14,5,0,herbert,Benetton
+1989,15,5,0,martini,Minardi
+1989,16,4,0,gugelmin,March
+1989,17,4,0,cesaris,Dallara
+1989,18,4,0,modena,Brabham
+1989,19,4,0,caffi,Dallara
+1989,20,4,0,brundle,Brabham
+1989,21,3,0,satoru_nakajima,Team Lotus
+1989,22,3,0,danner,Rial
+1989,23,2,0,pirro,Benetton
+1989,24,2,0,arnoux,Ligier
+1989,25,2,0,palmer,Tyrrell
+1989,26,1,0,grouillard,Ligier
+1989,27,1,0,tarquini,AGS
+1989,28,1,0,sala,Minardi
+1989,29,1,0,alliot,Larrousse
+1989,,0,0,capelli,March
+1989,,0,0,bernard,Larrousse
+1989,,0,0,gachot,Onyx
+1989,,0,0,larini,Osella
+1989,,0,0,donnelly,Arrows
+1989,,0,0,moreno,Coloni
+1989,,0,0,lehto,Onyx
+1989,,0,0,ghinzani,Osella
+1989,,0,0,schneider,Zakspeed
+1989,,0,0,raphanel,Coloni
+1989,,0,0,dalmas,Larrousse
+1989,,0,0,barilla,Minardi
+1989,,0,0,weidler,Rial
+1990,1,78,6,senna,McLaren
+1990,2,71,5,prost,Ferrari
+1990,3,43,2,piquet,Benetton
+1990,4,43,0,berger,McLaren
+1990,5,37,1,mansell,Ferrari
+1990,6,34,1,boutsen,Williams
+1990,7,23,1,patrese,Williams
+1990,8,21,0,nannini,Benetton
+1990,9,13,0,alesi,Tyrrell
+1990,10,6,0,capelli,Leyton House
+1990,11,6,0,moreno,Euro Brun
+1990,12,6,0,suzuki,Larrousse
+1990,13,5,0,bernard,Larrousse
+1990,14,3,0,warwick,Team Lotus
+1990,15,3,0,satoru_nakajima,Tyrrell
+1990,16,2,0,caffi,Arrows
+1990,17,2,0,modena,Brabham
+1990,18,1,0,gugelmin,Leyton House
+1990,,0,0,larini,Ligier
+1990,,0,0,donnelly,Team Lotus
+1990,,0,0,martini,Minardi
+1990,,0,0,foitek,Brabham
+1990,,0,0,alliot,Ligier
+1990,,0,0,alboreto,Arrows
+1990,,0,0,dalmas,AGS
+1990,,0,0,pirro,Dallara
+1990,,0,0,cesaris,Dallara
+1990,,0,0,barilla,Minardi
+1990,,0,0,lehto,Onyx
+1990,,0,0,schneider,Arrows
+1990,,0,0,grouillard,Osella
+1990,,0,0,tarquini,AGS
+1990,,0,0,morbidelli,Dallara
+1990,,0,0,brabham,Brabham
+1990,,0,0,herbert,Team Lotus
+1991,1,96,7,senna,McLaren
+1991,2,72,5,mansell,Williams
+1991,3,53,2,patrese,Williams
+1991,4,43,1,berger,McLaren
+1991,5,34,0,prost,Ferrari
+1991,6,26.5,1,piquet,Benetton
+1991,7,21,0,alesi,Ferrari
+1991,8,10,0,modena,Tyrrell
+1991,9,9,0,cesaris,Jordan
+1991,10,8,0,moreno,Benetton
+1991,11,6,0,martini,Minardi
+1991,12,4,0,lehto,Dallara
+1991,13,4,0,gachot,Jordan
+1991,14,4,0,michael_schumacher,Jordan
+1991,15,2,0,satoru_nakajima,Tyrrell
+1991,16,2,0,hakkinen,Team Lotus
+1991,17,2,0,brundle,Brabham
+1991,18,1,0,pirro,Dallara
+1991,19,1,0,blundell,Brabham
+1991,20,1,0,capelli,Leyton House
+1991,21,1,0,bernard,Larrousse
+1991,22,1,0,suzuki,Larrousse
+1991,23,1,0,bailey,Team Lotus
+1991,24,0.5,0,morbidelli,Minardi
+1991,,0,0,gugelmin,Leyton House
+1991,,0,0,boutsen,Ligier
+1991,,0,0,herbert,Team Lotus
+1991,,0,0,larini,Lambo
+1991,,0,0,comas,Ligier
+1991,,0,0,tarquini,AGS
+1991,,0,0,zanardi,Jordan
+1991,,0,0,poele,Lambo
+1991,,0,0,caffi,Footwork
+1991,,0,0,grouillard,Fondmetal
+1991,,0,0,alboreto,Footwork
+1991,,0,0,wendlinger,Leyton House
+1991,,0,0,johansson,AGS
+1992,1,108,9,mansell,Williams
+1992,2,56,1,patrese,Williams
+1992,3,53,1,michael_schumacher,Benetton
+1992,4,50,3,senna,McLaren
+1992,5,49,2,berger,McLaren
+1992,6,38,0,brundle,Benetton
+1992,7,18,0,alesi,Ferrari
+1992,8,11,0,hakkinen,Team Lotus
+1992,9,8,0,cesaris,Tyrrell
+1992,10,6,0,alboreto,Footwork
+1992,11,4,0,comas,Ligier
+1992,12,3,0,wendlinger,March
+1992,13,3,0,capelli,Ferrari
+1992,14,2,0,boutsen,Ligier
+1992,15,2,0,herbert,Team Lotus
+1992,16,2,0,martini,Dallara
+1992,17,1,0,modena,Jordan
+1992,18,1,0,fittipaldi,Minardi
+1992,19,1,0,gachot,Larrousse
+1992,,0,0,suzuki,Footwork
+1992,,0,0,lehto,Dallara
+1992,,0,0,morbidelli,Minardi
+1992,,0,0,gugelmin,Jordan
+1992,,0,0,grouillard,Tyrrell
+1992,,0,0,katayama,Larrousse
+1992,,0,0,belmondo,March
+1992,,0,0,poele,Brabham
+1992,,0,0,naspetti,March
+1992,,0,0,larini,Ferrari
+1992,,0,0,damon_hill,Brabham
+1992,,0,0,lammers,March
+1992,,0,0,tarquini,Fondmetal
+1992,,0,0,chiesa,Fondmetal
+1992,,0,0,moreno,Andrea Moda
+1992,,0,0,zanardi,Minardi
+1992,,0,0,mccarthy,Andrea Moda
+1993,1,99,7,prost,Williams
+1993,2,73,5,senna,McLaren
+1993,3,69,3,damon_hill,Williams
+1993,4,52,1,michael_schumacher,Benetton
+1993,5,20,0,patrese,Benetton
+1993,6,16,0,alesi,Ferrari
+1993,7,13,0,brundle,Ligier
+1993,8,12,0,berger,Ferrari
+1993,9,11,0,herbert,Team Lotus
+1993,10,10,0,blundell,Ligier
+1993,11,7,0,andretti,McLaren
+1993,12,7,0,wendlinger,Sauber
+1993,13,5,0,lehto,Sauber
+1993,14,5,0,fittipaldi,Minardi
+1993,15,4,0,hakkinen,McLaren
+1993,16,4,0,warwick,Footwork
+1993,17,2,0,alliot,Larrousse
+1993,18,2,0,barrichello,Jordan
+1993,19,2,0,barbazza,Minardi
+1993,20,1,0,zanardi,Team Lotus
+1993,21,1,0,comas,Larrousse
+1993,22,1,0,irvine,Jordan
+1993,,0,0,martini,Minardi
+1993,,0,0,suzuki,Footwork
+1993,,0,0,badoer,Lola
+1993,,0,0,boutsen,Jordan
+1993,,0,0,cesaris,Tyrrell
+1993,,0,0,katayama,Tyrrell
+1993,,0,0,alboreto,Lola
+1993,,0,0,lamy,Team Lotus
+1993,,0,0,toshio_suzuki,Larrousse
+1993,,0,0,gounon,Minardi
+1993,,0,0,capelli,Jordan
+1993,,0,0,apicella,Jordan
+1993,,0,0,naspetti,Jordan
+1994,1,92,8,michael_schumacher,Benetton
+1994,2,91,6,damon_hill,Williams
+1994,3,41,1,berger,Ferrari
+1994,4,26,0,hakkinen,McLaren
+1994,5,24,0,alesi,Ferrari
+1994,6,19,0,barrichello,Jordan
+1994,7,16,0,brundle,McLaren
+1994,8,14,0,coulthard,Williams
+1994,9,13,1,mansell,Williams
+1994,10,10,0,verstappen,Benetton
+1994,11,9,0,panis,Ligier
+1994,12,8,0,blundell,Tyrrell
+1994,13,7,0,frentzen,Sauber
+1994,14,6,0,larini,Ferrari
+1994,15,6,0,fittipaldi,Footwork
+1994,16,6,0,irvine,Jordan
+1994,17,5,0,katayama,Tyrrell
+1994,18,4,0,bernard,Ligier
+1994,19,4,0,wendlinger,Sauber
+1994,20,4,0,cesaris,Jordan
+1994,21,4,0,martini,Minardi
+1994,22,3,0,morbidelli,Footwork
+1994,23,2,0,comas,Larrousse
+1994,24,1,0,lehto,Benetton
+1994,25,1,0,alboreto,Minardi
+1994,,0,0,herbert,Team Lotus
+1994,,0,0,beretta,Larrousse
+1994,,0,0,lamy,Team Lotus
+1994,,0,0,gounon,Simtek
+1994,,0,0,zanardi,Team Lotus
+1994,,0,0,brabham,Simtek
+1994,,0,0,salo,Team Lotus
+1994,,0,0,lagorce,Ligier
+1994,,0,0,ratzenberger,Simtek
+1994,,0,0,dalmas,Larrousse
+1994,,0,0,adams,Team Lotus
+1994,,0,0,schiattarella,Simtek
+1994,,0,0,senna,Williams
+1994,,0,0,belmondo,Pacific
+1994,,0,0,gachot,Pacific
+1994,,0,0,deletraz,Larrousse
+1994,,0,0,suzuki,Jordan
+1994,,0,0,alliot,McLaren
+1994,,0,0,noda,Larrousse
+1994,,0,0,inoue,Simtek
+1994,,0,0,montermini,Simtek
+1995,1,102,9,michael_schumacher,Benetton
+1995,2,69,4,damon_hill,Williams
+1995,3,49,1,coulthard,Williams
+1995,4,45,2,herbert,Benetton
+1995,5,42,1,alesi,Ferrari
+1995,6,31,0,berger,Ferrari
+1995,7,17,0,hakkinen,McLaren
+1995,8,16,0,panis,Ligier
+1995,9,15,0,frentzen,Sauber
+1995,10,13,0,blundell,McLaren
+1995,11,11,0,barrichello,Jordan
+1995,12,10,0,irvine,Jordan
+1995,13,7,0,brundle,Ligier
+1995,14,5,0,morbidelli,Footwork
+1995,15,5,0,salo,Tyrrell
+1995,16,3,0,boullion,Sauber
+1995,17,1,0,suzuki,Ligier
+1995,18,1,0,lamy,Minardi
+1995,,0,0,martini,Minardi
+1995,,0,0,katayama,Tyrrell
+1995,,0,0,diniz,Forti
+1995,,0,0,papis,Footwork
+1995,,0,0,badoer,Minardi
+1995,,0,0,inoue,Footwork
+1995,,0,0,montermini,Pacific
+1995,,0,0,gachot,Pacific
+1995,,0,0,schiattarella,Simtek
+1995,,0,0,wendlinger,Sauber
+1995,,0,0,mansell,McLaren
+1995,,0,0,magnussen,McLaren
+1995,,0,0,verstappen,Simtek
+1995,,0,0,moreno,Forti
+1995,,0,0,tarquini,Tyrrell
+1995,,0,0,deletraz,Pacific
+1995,,0,0,lavaggi,Pacific
+1996,1,97,8,damon_hill,Williams
+1996,2,78,4,villeneuve,Williams
+1996,3,59,3,michael_schumacher,Ferrari
+1996,4,47,0,alesi,Benetton
+1996,5,31,0,hakkinen,McLaren
+1996,6,21,0,berger,Benetton
+1996,7,18,0,coulthard,McLaren
+1996,8,14,0,barrichello,Jordan
+1996,9,13,1,panis,Ligier
+1996,10,11,0,irvine,Ferrari
+1996,11,8,0,brundle,Jordan
+1996,12,7,0,frentzen,Sauber
+1996,13,5,0,salo,Tyrrell
+1996,14,4,0,herbert,Sauber
+1996,15,2,0,diniz,Ligier
+1996,16,1,0,verstappen,Footwork
+1996,,0,0,katayama,Tyrrell
+1996,,0,0,rosset,Footwork
+1996,,0,0,fisichella,Minardi
+1996,,0,0,lamy,Minardi
+1996,,0,0,badoer,Forti
+1996,,0,0,lavaggi,Minardi
+1996,,0,0,montermini,Forti
+1996,,0,0,marques,Minardi
+1997,1,81,7,villeneuve,Williams
+1997,2,42,1,frentzen,Williams
+1997,3,36,2,coulthard,McLaren
+1997,4,36,0,alesi,Benetton
+1997,5,27,1,berger,Benetton
+1997,6,27,1,hakkinen,McLaren
+1997,7,24,0,irvine,Ferrari
+1997,8,20,0,fisichella,Jordan
+1997,9,16,0,panis,Prost
+1997,10,15,0,herbert,Sauber
+1997,11,13,0,ralf_schumacher,Jordan
+1997,12,7,0,damon_hill,Arrows
+1997,13,6,0,barrichello,Stewart
+1997,14,4,0,wurz,Benetton
+1997,15,3,0,trulli,Minardi
+1997,16,2,0,diniz,Arrows
+1997,17,2,0,salo,Tyrrell
+1997,18,2,0,nakano,Prost
+1997,19,1,0,larini,Sauber
+1997,,78,5,michael_schumacher,Ferrari
+1997,,0,0,magnussen,Stewart
+1997,,0,0,verstappen,Tyrrell
+1997,,0,0,morbidelli,Sauber
+1997,,0,0,fontana,Sauber
+1997,,0,0,katayama,Minardi
+1997,,0,0,marques,Minardi
+1998,1,100,8,hakkinen,McLaren
+1998,2,86,6,michael_schumacher,Ferrari
+1998,3,56,1,coulthard,McLaren
+1998,4,47,0,irvine,Ferrari
+1998,5,21,0,villeneuve,Williams
+1998,6,20,1,damon_hill,Jordan
+1998,7,17,0,frentzen,Williams
+1998,8,17,0,wurz,Benetton
+1998,9,16,0,fisichella,Benetton
+1998,10,14,0,ralf_schumacher,Jordan
+1998,11,9,0,alesi,Sauber
+1998,12,4,0,barrichello,Stewart
+1998,13,3,0,salo,Arrows
+1998,14,3,0,diniz,Arrows
+1998,15,1,0,herbert,Sauber
+1998,16,1,0,trulli,Prost
+1998,17,1,0,magnussen,Stewart
+1998,,0,0,nakano,Minardi
+1998,,0,0,tuero,Minardi
+1998,,0,0,rosset,Tyrrell
+1998,,0,0,takagi,Tyrrell
+1998,,0,0,panis,Prost
+1998,,0,0,verstappen,Stewart
+1999,1,76,5,hakkinen,McLaren
+1999,2,74,4,irvine,Ferrari
+1999,3,54,2,frentzen,Jordan
+1999,4,48,2,coulthard,McLaren
+1999,5,44,2,michael_schumacher,Ferrari
+1999,6,35,0,ralf_schumacher,Williams
+1999,7,21,0,barrichello,Stewart
+1999,8,15,1,herbert,Stewart
+1999,9,13,0,fisichella,Benetton
+1999,10,10,0,salo,BAR
+1999,11,7,0,trulli,Prost
+1999,12,7,0,damon_hill,Jordan
+1999,13,3,0,wurz,Benetton
+1999,14,3,0,diniz,Sauber
+1999,15,2,0,alesi,Sauber
+1999,16,2,0,panis,Prost
+1999,17,1,0,gene,Minardi
+1999,18,1,0,rosa,Arrows
+1999,,0,0,zanardi,Williams
+1999,,0,0,takagi,Arrows
+1999,,0,0,villeneuve,BAR
+1999,,0,0,zonta,BAR
+1999,,0,0,badoer,Minardi
+1999,,0,0,sarrazin,Minardi
+2000,1,108,9,michael_schumacher,Ferrari
+2000,2,89,4,hakkinen,McLaren
+2000,3,73,3,coulthard,McLaren
+2000,4,62,1,barrichello,Ferrari
+2000,5,24,0,ralf_schumacher,Williams
+2000,6,18,0,fisichella,Benetton
+2000,7,17,0,villeneuve,BAR
+2000,8,12,0,button,Williams
+2000,9,11,0,frentzen,Jordan
+2000,10,6,0,trulli,Jordan
+2000,11,6,0,salo,Sauber
+2000,12,5,0,verstappen,Arrows
+2000,13,4,0,irvine,Jaguar
+2000,14,3,0,zonta,BAR
+2000,15,2,0,wurz,Benetton
+2000,16,2,0,rosa,Arrows
+2000,,0,0,herbert,Jaguar
+2000,,0,0,diniz,Sauber
+2000,,0,0,gene,Minardi
+2000,,0,0,heidfeld,Prost
+2000,,0,0,mazzacane,Minardi
+2000,,0,0,alesi,Prost
+2000,,0,0,burti,Jaguar
+2001,1,123,9,michael_schumacher,Ferrari
+2001,2,65,2,coulthard,McLaren
+2001,3,56,0,barrichello,Ferrari
+2001,4,49,3,ralf_schumacher,Williams
+2001,5,37,2,hakkinen,McLaren
+2001,6,31,1,montoya,Williams
+2001,7,12,0,villeneuve,BAR
+2001,8,12,0,heidfeld,Sauber
+2001,9,12,0,trulli,Jordan
+2001,10,9,0,raikkonen,Sauber
+2001,11,8,0,fisichella,Benetton
+2001,12,6,0,irvine,Jaguar
+2001,13,6,0,frentzen,Jordan
+2001,14,5,0,panis,BAR
+2001,15,5,0,alesi,Prost
+2001,16,3,0,rosa,Jaguar
+2001,17,2,0,button,Benetton
+2001,18,1,0,verstappen,Arrows
+2001,,0,0,zonta,Jordan
+2001,,0,0,burti,Jaguar
+2001,,0,0,bernoldi,Arrows
+2001,,0,0,marques,Minardi
+2001,,0,0,alonso,Minardi
+2001,,0,0,enge,Prost
+2001,,0,0,mazzacane,Prost
+2001,,0,0,yoong,Minardi
+2002,1,144,11,michael_schumacher,Ferrari
+2002,2,77,4,barrichello,Ferrari
+2002,3,50,0,montoya,Williams
+2002,4,42,1,ralf_schumacher,Williams
+2002,5,41,1,coulthard,McLaren
+2002,6,24,0,raikkonen,McLaren
+2002,7,14,0,button,Renault
+2002,8,9,0,trulli,Renault
+2002,9,8,0,irvine,Jaguar
+2002,10,7,0,heidfeld,Sauber
+2002,11,7,0,fisichella,Jordan
+2002,12,4,0,villeneuve,BAR
+2002,13,4,0,massa,Sauber
+2002,14,3,0,panis,BAR
+2002,15,2,0,sato,Jordan
+2002,16,2,0,webber,Minardi
+2002,17,2,0,salo,Toyota
+2002,18,2,0,frentzen,Arrows
+2002,19,0,0,mcnish,Toyota
+2002,20,0,0,yoong,Minardi
+2002,21,0,0,rosa,Jaguar
+2002,22,0,0,bernoldi,Arrows
+2002,,0,0,davidson,Minardi
+2003,1,93,6,michael_schumacher,Ferrari
+2003,2,91,1,raikkonen,McLaren
+2003,3,82,2,montoya,Williams
+2003,4,65,2,barrichello,Ferrari
+2003,5,58,2,ralf_schumacher,Williams
+2003,6,55,1,alonso,Renault
+2003,7,51,1,coulthard,McLaren
+2003,8,33,0,trulli,Renault
+2003,9,17,0,button,BAR
+2003,10,17,0,webber,Jaguar
+2003,11,13,0,frentzen,Sauber
+2003,12,12,1,fisichella,Jordan
+2003,13,10,0,matta,Toyota
+2003,14,6,0,heidfeld,Sauber
+2003,15,6,0,panis,Toyota
+2003,16,6,0,villeneuve,BAR
+2003,17,4,0,gene,Williams
+2003,18,3,0,sato,BAR
+2003,19,1,0,firman,Jordan
+2003,20,1,0,wilson,Minardi
+2003,21,0,0,pizzonia,Jaguar
+2003,22,0,0,verstappen,Minardi
+2003,23,0,0,kiesa,Minardi
+2003,24,0,0,baumgartner,Jordan
+2004,1,148,13,michael_schumacher,Ferrari
+2004,2,114,2,barrichello,Ferrari
+2004,3,85,0,button,BAR
+2004,4,59,0,alonso,Renault
+2004,5,58,1,montoya,Williams
+2004,6,46,1,trulli,Renault
+2004,7,45,1,raikkonen,McLaren
+2004,8,34,0,sato,BAR
+2004,9,24,0,ralf_schumacher,Williams
+2004,10,24,0,coulthard,McLaren
+2004,11,22,0,fisichella,Sauber
+2004,12,12,0,massa,Sauber
+2004,13,7,0,webber,Jaguar
+2004,14,6,0,panis,Toyota
+2004,15,6,0,pizzonia,Williams
+2004,16,3,0,klien,Jaguar
+2004,17,3,0,matta,Toyota
+2004,18,3,0,heidfeld,Jordan
+2004,19,2,0,glock,Jordan
+2004,20,1,0,baumgartner,Minardi
+2004,21,0,0,villeneuve,Renault
+2004,22,0,0,zonta,Toyota
+2004,23,0,0,gene,Williams
+2004,24,0,0,pantano,Jordan
+2004,25,0,0,bruni,Minardi
+2005,1,133,7,alonso,Renault
+2005,2,112,7,raikkonen,McLaren
+2005,3,62,1,michael_schumacher,Ferrari
+2005,4,60,3,montoya,McLaren
+2005,5,58,1,fisichella,Renault
+2005,6,45,0,ralf_schumacher,Toyota
+2005,7,43,0,trulli,Toyota
+2005,8,38,0,barrichello,Ferrari
+2005,9,37,0,button,BAR
+2005,10,36,0,webber,Williams
+2005,11,28,0,heidfeld,Williams
+2005,12,24,0,coulthard,Red Bull
+2005,13,11,0,massa,Sauber
+2005,14,9,0,villeneuve,Sauber
+2005,15,9,0,klien,Red Bull
+2005,16,7,0,monteiro,Jordan
+2005,17,6,0,wurz,McLaren
+2005,18,5,0,karthikeyan,Jordan
+2005,19,4,0,albers,Minardi
+2005,20,4,0,rosa,McLaren
+2005,21,3,0,friesacher,Minardi
+2005,22,2,0,pizzonia,Williams
+2005,23,1,0,sato,BAR
+2005,24,1,0,liuzzi,Red Bull
+2005,25,0,0,doornbos,Minardi
+2005,,0,0,zonta,Toyota
+2005,,0,0,davidson,BAR
+2006,1,134,7,alonso,Renault
+2006,2,121,7,michael_schumacher,Ferrari
+2006,3,80,2,massa,Ferrari
+2006,4,72,1,fisichella,Renault
+2006,5,65,0,raikkonen,McLaren
+2006,6,56,1,button,Honda
+2006,7,30,0,barrichello,Honda
+2006,8,26,0,montoya,McLaren
+2006,9,23,0,heidfeld,BMW Sauber
+2006,10,20,0,ralf_schumacher,Toyota
+2006,11,19,0,rosa,McLaren
+2006,12,15,0,trulli,Toyota
+2006,13,14,0,coulthard,Red Bull
+2006,14,7,0,webber,Williams
+2006,15,7,0,villeneuve,BMW Sauber
+2006,16,6,0,kubica,BMW Sauber
+2006,17,4,0,rosberg,Williams
+2006,18,2,0,klien,Red Bull
+2006,19,1,0,liuzzi,Toro Rosso
+2006,20,0,0,speed,Toro Rosso
+2006,21,0,0,monteiro,MF1
+2006,22,0,0,albers,MF1
+2006,23,0,0,sato,Super Aguri
+2006,24,0,0,doornbos,Red Bull
+2006,25,0,0,ide,Super Aguri
+2006,26,0,0,yamamoto,Super Aguri
+2006,27,0,0,montagny,Super Aguri
+2007,1,110,6,raikkonen,Ferrari
+2007,2,109,4,hamilton,McLaren
+2007,3,109,4,alonso,McLaren
+2007,4,94,3,massa,Ferrari
+2007,5,61,0,heidfeld,BMW Sauber
+2007,6,39,0,kubica,BMW Sauber
+2007,7,30,0,kovalainen,Renault
+2007,8,21,0,fisichella,Renault
+2007,9,20,0,rosberg,Williams
+2007,10,14,0,coulthard,Red Bull
+2007,11,13,0,wurz,Williams
+2007,12,10,0,webber,Red Bull
+2007,13,8,0,trulli,Toyota
+2007,14,6,0,vettel,BMW Sauber
+2007,15,6,0,button,Honda
+2007,16,5,0,ralf_schumacher,Toyota
+2007,17,4,0,sato,Super Aguri
+2007,18,3,0,liuzzi,Toro Rosso
+2007,19,1,0,sutil,Spyker
+2007,20,0,0,barrichello,Honda
+2007,21,0,0,speed,Toro Rosso
+2007,22,0,0,nakajima,Williams
+2007,23,0,0,davidson,Super Aguri
+2007,24,0,0,yamamoto,Spyker
+2007,25,0,0,albers,Spyker
+2007,,0,0,markus_winkelhock,Spyker
+2008,1,98,5,hamilton,McLaren
+2008,2,97,6,massa,Ferrari
+2008,3,75,2,raikkonen,Ferrari
+2008,4,75,1,kubica,BMW Sauber
+2008,5,61,2,alonso,Renault
+2008,6,60,0,heidfeld,BMW Sauber
+2008,7,53,1,kovalainen,McLaren
+2008,8,35,1,vettel,Toro Rosso
+2008,9,31,0,trulli,Toyota
+2008,10,25,0,glock,Toyota
+2008,11,21,0,webber,Red Bull
+2008,12,19,0,piquet_jr,Renault
+2008,13,17,0,rosberg,Williams
+2008,14,11,0,barrichello,Honda
+2008,15,9,0,nakajima,Williams
+2008,16,8,0,coulthard,Red Bull
+2008,17,4,0,bourdais,Toro Rosso
+2008,18,3,0,button,Honda
+2008,19,0,0,fisichella,Force India
+2008,20,0,0,sutil,Force India
+2008,21,0,0,sato,Super Aguri
+2008,22,0,0,davidson,Super Aguri
+2009,1,95,6,button,Brawn
+2009,2,84,4,vettel,Red Bull
+2009,3,77,2,barrichello,Brawn
+2009,4,69.5,2,webber,Red Bull
+2009,5,49,2,hamilton,McLaren
+2009,6,48,1,raikkonen,Ferrari
+2009,7,34.5,0,rosberg,Williams
+2009,8,32.5,0,trulli,Toyota
+2009,9,26,0,alonso,Renault
+2009,10,24,0,glock,Toyota
+2009,11,22,0,massa,Ferrari
+2009,12,22,0,kovalainen,McLaren
+2009,13,19,0,heidfeld,BMW Sauber
+2009,14,17,0,kubica,BMW Sauber
+2009,15,8,0,fisichella,Force India
+2009,16,6,0,buemi,Toro Rosso
+2009,17,5,0,sutil,Force India
+2009,18,3,0,kobayashi,Toyota
+2009,19,2,0,bourdais,Toro Rosso
+2009,20,0,0,nakajima,Williams
+2009,21,0,0,piquet_jr,Renault
+2009,22,0,0,liuzzi,Force India
+2009,23,0,0,grosjean,Renault
+2009,24,0,0,alguersuari,Toro Rosso
+2009,25,0,0,badoer,Ferrari
+2010,1,256,5,vettel,Red Bull
+2010,2,252,5,alonso,Ferrari
+2010,3,242,4,webber,Red Bull
+2010,4,240,3,hamilton,McLaren
+2010,5,214,2,button,McLaren
+2010,6,144,0,massa,Ferrari
+2010,7,142,0,rosberg,Mercedes
+2010,8,136,0,kubica,Renault
+2010,9,72,0,michael_schumacher,Mercedes
+2010,10,47,0,barrichello,Williams
+2010,11,47,0,sutil,Force India
+2010,12,32,0,kobayashi,Sauber
+2010,13,27,0,petrov,Renault
+2010,14,22,0,hulkenberg,Williams
+2010,15,21,0,liuzzi,Force India
+2010,16,8,0,buemi,Toro Rosso
+2010,17,6,0,rosa,Sauber
+2010,18,6,0,heidfeld,Sauber
+2010,19,5,0,alguersuari,Toro Rosso
+2010,20,0,0,kovalainen,Lotus
+2010,21,0,0,trulli,Lotus
+2010,22,0,0,chandhok,HRT
+2010,23,0,0,bruno_senna,HRT
+2010,24,0,0,grassi,Virgin
+2010,25,0,0,glock,Virgin
+2010,26,0,0,yamamoto,HRT
+2010,27,0,0,klien,HRT
+2011,1,392,11,vettel,Red Bull
+2011,2,270,3,button,McLaren
+2011,3,258,1,webber,Red Bull
+2011,4,257,1,alonso,Ferrari
+2011,5,227,3,hamilton,McLaren
+2011,6,118,0,massa,Ferrari
+2011,7,89,0,rosberg,Mercedes
+2011,8,76,0,michael_schumacher,Mercedes
+2011,9,42,0,sutil,Force India
+2011,10,37,0,petrov,Renault
+2011,11,34,0,heidfeld,Renault
+2011,12,30,0,kobayashi,Sauber
+2011,13,27,0,resta,Force India
+2011,14,26,0,alguersuari,Toro Rosso
+2011,15,15,0,buemi,Toro Rosso
+2011,16,14,0,perez,Sauber
+2011,17,4,0,barrichello,Williams
+2011,18,2,0,bruno_senna,Renault
+2011,19,1,0,maldonado,Williams
+2011,20,0,0,rosa,Sauber
+2011,21,0,0,trulli,Lotus
+2011,22,0,0,kovalainen,Lotus
+2011,23,0,0,liuzzi,HRT
+2011,24,0,0,ambrosio,Virgin
+2011,25,0,0,glock,Virgin
+2011,26,0,0,karthikeyan,HRT
+2011,27,0,0,ricciardo,HRT
+2011,28,0,0,chandhok,Lotus
+2012,1,281,5,vettel,Red Bull
+2012,2,278,3,alonso,Ferrari
+2012,3,207,1,raikkonen,Lotus F1
+2012,4,190,4,hamilton,McLaren
+2012,5,188,3,button,McLaren
+2012,6,179,2,webber,Red Bull
+2012,7,122,0,massa,Ferrari
+2012,8,96,0,grosjean,Lotus F1
+2012,9,93,1,rosberg,Mercedes
+2012,10,66,0,perez,Sauber
+2012,11,63,0,hulkenberg,Force India
+2012,12,60,0,kobayashi,Sauber
+2012,13,49,0,michael_schumacher,Mercedes
+2012,14,46,0,resta,Force India
+2012,15,45,1,maldonado,Williams
+2012,16,31,0,bruno_senna,Williams
+2012,17,16,0,vergne,Toro Rosso
+2012,18,10,0,ricciardo,Toro Rosso
+2012,19,0,0,petrov,Caterham
+2012,20,0,0,glock,Marussia
+2012,21,0,0,pic,Marussia
+2012,22,0,0,kovalainen,Caterham
+2012,23,0,0,ambrosio,Lotus F1
+2012,24,0,0,karthikeyan,HRT
+2012,25,0,0,rosa,HRT
+2013,1,397,13,vettel,Red Bull
+2013,2,242,2,alonso,Ferrari
+2013,3,199,0,webber,Red Bull
+2013,4,189,1,hamilton,Mercedes
+2013,5,183,1,raikkonen,Lotus F1
+2013,6,171,2,rosberg,Mercedes
+2013,7,132,0,grosjean,Lotus F1
+2013,8,112,0,massa,Ferrari
+2013,9,73,0,button,McLaren
+2013,10,51,0,hulkenberg,Sauber
+2013,11,49,0,perez,McLaren
+2013,12,48,0,resta,Force India
+2013,13,29,0,sutil,Force India
+2013,14,20,0,ricciardo,Toro Rosso
+2013,15,13,0,vergne,Toro Rosso
+2013,16,6,0,gutierrez,Sauber
+2013,17,4,0,bottas,Williams
+2013,18,1,0,maldonado,Williams
+2013,19,0,0,jules_bianchi,Marussia
+2013,20,0,0,pic,Caterham
+2013,21,0,0,garde,Caterham
+2013,22,0,0,kovalainen,Lotus F1
+2013,23,0,0,chilton,Marussia
+2014,1,384,11,hamilton,Mercedes
+2014,2,317,5,rosberg,Mercedes
+2014,3,238,3,ricciardo,Red Bull
+2014,4,186,0,bottas,Williams
+2014,5,167,0,vettel,Red Bull
+2014,6,161,0,alonso,Ferrari
+2014,7,134,0,massa,Williams
+2014,8,126,0,button,McLaren
+2014,9,96,0,hulkenberg,Force India
+2014,10,59,0,perez,Force India
+2014,11,55,0,kevin_magnussen,McLaren
+2014,12,55,0,raikkonen,Ferrari
+2014,13,22,0,vergne,Toro Rosso
+2014,14,8,0,grosjean,Lotus F1
+2014,15,8,0,kvyat,Toro Rosso
+2014,16,2,0,maldonado,Lotus F1
+2014,17,2,0,jules_bianchi,Marussia
+2014,18,0,0,sutil,Sauber
+2014,19,0,0,ericsson,Caterham
+2014,20,0,0,gutierrez,Sauber
+2014,21,0,0,chilton,Marussia
+2014,22,0,0,kobayashi,Caterham
+2014,23,0,0,stevens,Caterham
+2014,,0,0,lotterer,Caterham
+2015,1,381,10,hamilton,Mercedes
+2015,2,322,6,rosberg,Mercedes
+2015,3,278,3,vettel,Ferrari
+2015,4,150,0,raikkonen,Ferrari
+2015,5,136,0,bottas,Williams
+2015,6,121,0,massa,Williams
+2015,7,95,0,kvyat,Red Bull
+2015,8,92,0,ricciardo,Red Bull
+2015,9,78,0,perez,Force India
+2015,10,58,0,hulkenberg,Force India
+2015,11,51,0,grosjean,Lotus F1
+2015,12,49,0,max_verstappen,Toro Rosso
+2015,13,27,0,nasr,Sauber
+2015,14,27,0,maldonado,Lotus F1
+2015,15,18,0,sainz,Toro Rosso
+2015,16,16,0,button,McLaren
+2015,17,11,0,alonso,McLaren
+2015,18,9,0,ericsson,Sauber
+2015,19,0,0,merhi,Manor Marussia
+2015,20,0,0,rossi,Manor Marussia
+2015,21,0,0,stevens,Manor Marussia
+2015,,0,0,kevin_magnussen,McLaren
+2016,1,385,9,rosberg,Mercedes
+2016,2,380,10,hamilton,Mercedes
+2016,3,256,1,ricciardo,Red Bull
+2016,4,212,0,vettel,Ferrari
+2016,5,204,1,max_verstappen,Toro Rosso
+2016,6,186,0,raikkonen,Ferrari
+2016,7,101,0,perez,Force India
+2016,8,85,0,bottas,Williams
+2016,9,72,0,hulkenberg,Force India
+2016,10,54,0,alonso,McLaren
+2016,11,53,0,massa,Williams
+2016,12,46,0,sainz,Toro Rosso
+2016,13,29,0,grosjean,Haas F1 Team
+2016,14,25,0,kvyat,Red Bull
+2016,15,21,0,button,McLaren
+2016,16,7,0,kevin_magnussen,Renault
+2016,17,2,0,nasr,Sauber
+2016,18,1,0,jolyon_palmer,Renault
+2016,19,1,0,wehrlein,Manor Marussia
+2016,20,1,0,vandoorne,McLaren
+2016,21,0,0,gutierrez,Haas F1 Team
+2016,22,0,0,ericsson,Sauber
+2016,23,0,0,ocon,Manor Marussia
+2016,24,0,0,haryanto,Manor Marussia
+2017,1,363,9,hamilton,Mercedes
+2017,2,317,5,vettel,Ferrari
+2017,3,305,3,bottas,Mercedes
+2017,4,205,0,raikkonen,Ferrari
+2017,5,200,1,ricciardo,Red Bull
+2017,6,168,2,max_verstappen,Red Bull
+2017,7,100,0,perez,Force India
+2017,8,87,0,ocon,Force India
+2017,9,54,0,sainz,Toro Rosso
+2017,10,43,0,hulkenberg,Renault
+2017,11,43,0,massa,Williams
+2017,12,40,0,stroll,Williams
+2017,13,28,0,grosjean,Haas F1 Team
+2017,14,19,0,kevin_magnussen,Haas F1 Team
+2017,15,17,0,alonso,McLaren
+2017,16,13,0,vandoorne,McLaren
+2017,17,8,0,jolyon_palmer,Renault
+2017,18,5,0,wehrlein,Sauber
+2017,19,5,0,kvyat,Toro Rosso
+2017,20,0,0,ericsson,Sauber
+2017,21,0,0,gasly,Toro Rosso
+2017,22,0,0,giovinazzi,Sauber
+2017,23,0,0,brendon_hartley,Toro Rosso
+2017,,0,0,button,McLaren
+2017,,0,0,resta,Williams
+2018,1,408,11,hamilton,Mercedes
+2018,2,320,5,vettel,Ferrari
+2018,3,251,1,raikkonen,Ferrari
+2018,4,249,2,max_verstappen,Red Bull
+2018,5,247,0,bottas,Mercedes
+2018,6,170,2,ricciardo,Red Bull
+2018,7,69,0,hulkenberg,Renault
+2018,8,62,0,perez,Force India
+2018,9,56,0,kevin_magnussen,Haas F1 Team
+2018,10,53,0,sainz,Renault
+2018,11,50,0,alonso,McLaren
+2018,12,49,0,ocon,Force India
+2018,13,39,0,leclerc,Sauber
+2018,14,37,0,grosjean,Haas F1 Team
+2018,15,29,0,gasly,Toro Rosso
+2018,16,12,0,vandoorne,McLaren
+2018,17,9,0,ericsson,Sauber
+2018,18,6,0,stroll,Williams
+2018,19,4,0,brendon_hartley,Toro Rosso
+2018,20,1,0,sirotkin,Williams
+2019,1,413,11,hamilton,Mercedes
+2019,2,326,4,bottas,Mercedes
+2019,3,278,3,max_verstappen,Red Bull
+2019,4,264,2,leclerc,Ferrari
+2019,5,240,1,vettel,Ferrari
+2019,6,96,0,sainz,McLaren
+2019,7,95,0,gasly,Red Bull
+2019,8,92,0,albon,Toro Rosso
+2019,9,54,0,ricciardo,Renault
+2019,10,52,0,perez,Racing Point
+2019,11,49,0,norris,McLaren
+2019,12,43,0,raikkonen,Alfa Romeo
+2019,13,37,0,kvyat,Toro Rosso
+2019,14,37,0,hulkenberg,Renault
+2019,15,21,0,stroll,Racing Point
+2019,16,20,0,kevin_magnussen,Haas F1 Team
+2019,17,14,0,giovinazzi,Alfa Romeo
+2019,18,8,0,grosjean,Haas F1 Team
+2019,19,1,0,kubica,Williams
+2019,20,0,0,russell,Williams
+2020,1,347,11,hamilton,Mercedes
+2020,2,223,2,bottas,Mercedes
+2020,3,214,2,max_verstappen,Red Bull
+2020,4,125,1,perez,Racing Point
+2020,5,119,0,ricciardo,Renault
+2020,6,105,0,sainz,McLaren
+2020,7,105,0,albon,Red Bull
+2020,8,98,0,leclerc,Ferrari
+2020,9,97,0,norris,McLaren
+2020,10,75,1,gasly,AlphaTauri
+2020,11,75,0,stroll,Racing Point
+2020,12,62,0,ocon,Renault
+2020,13,33,0,vettel,Ferrari
+2020,14,32,0,kvyat,AlphaTauri
+2020,15,10,0,hulkenberg,Racing Point
+2020,16,4,0,raikkonen,Alfa Romeo
+2020,17,4,0,giovinazzi,Alfa Romeo
+2020,18,3,0,russell,Williams
+2020,19,2,0,grosjean,Haas F1 Team
+2020,20,1,0,kevin_magnussen,Haas F1 Team
+2020,21,0,0,latifi,Williams
+2020,22,0,0,aitken,Williams
+2020,23,0,0,pietro_fittipaldi,Haas F1 Team
+2021,1,395.5,10,max_verstappen,Red Bull
+2021,2,387.5,8,hamilton,Mercedes
+2021,3,226,1,bottas,Mercedes
+2021,4,190,1,perez,Red Bull
+2021,5,164.5,0,sainz,Ferrari
+2021,6,160,0,norris,McLaren
+2021,7,159,0,leclerc,Ferrari
+2021,8,115,1,ricciardo,McLaren
+2021,9,110,0,gasly,AlphaTauri
+2021,10,81,0,alonso,Alpine F1 Team
+2021,11,74,1,ocon,Alpine F1 Team
+2021,12,43,0,vettel,Aston Martin
+2021,13,34,0,stroll,Aston Martin
+2021,14,32,0,tsunoda,AlphaTauri
+2021,15,16,0,russell,Williams
+2021,16,10,0,raikkonen,Alfa Romeo
+2021,17,7,0,latifi,Williams
+2021,18,3,0,giovinazzi,Alfa Romeo
+2021,19,0,0,mick_schumacher,Haas F1 Team
+2021,20,0,0,kubica,Alfa Romeo
+2021,21,0,0,mazepin,Haas F1 Team
+2022,1,454,15,max_verstappen,Red Bull
+2022,2,308,3,leclerc,Ferrari
+2022,3,305,2,perez,Red Bull
+2022,4,275,1,russell,Mercedes
+2022,5,246,1,sainz,Ferrari
+2022,6,240,0,hamilton,Mercedes
+2022,7,122,0,norris,McLaren
+2022,8,92,0,ocon,Alpine F1 Team
+2022,9,81,0,alonso,Alpine F1 Team
+2022,10,49,0,bottas,Alfa Romeo
+2022,11,37,0,ricciardo,McLaren
+2022,12,37,0,vettel,Aston Martin
+2022,13,25,0,kevin_magnussen,Haas F1 Team
+2022,14,23,0,gasly,AlphaTauri
+2022,15,18,0,stroll,Aston Martin
+2022,16,12,0,mick_schumacher,Haas F1 Team
+2022,17,12,0,tsunoda,AlphaTauri
+2022,18,6,0,zhou,Alfa Romeo
+2022,19,4,0,albon,Williams
+2022,20,2,0,latifi,Williams
+2022,21,2,0,de_vries,Williams
+2022,22,0,0,hulkenberg,Aston Martin
+2023,1,575,19,max_verstappen,Red Bull
+2023,2,285,2,perez,Red Bull
+2023,3,234,0,hamilton,Mercedes
+2023,4,206,0,alonso,Aston Martin
+2023,5,206,0,leclerc,Ferrari
+2023,6,205,0,norris,McLaren
+2023,7,200,1,sainz,Ferrari
+2023,8,175,0,russell,Mercedes
+2023,9,97,0,piastri,McLaren
+2023,10,74,0,stroll,Aston Martin
+2023,11,62,0,gasly,Alpine F1 Team
+2023,12,58,0,ocon,Alpine F1 Team
+2023,13,27,0,albon,Williams
+2023,14,17,0,tsunoda,AlphaTauri
+2023,15,10,0,bottas,Alfa Romeo
+2023,16,9,0,hulkenberg,Haas F1 Team
+2023,17,6,0,ricciardo,AlphaTauri
+2023,18,6,0,zhou,Alfa Romeo
+2023,19,3,0,kevin_magnussen,Haas F1 Team
+2023,20,2,0,lawson,AlphaTauri
+2023,21,1,0,sargeant,Williams
+2023,22,0,0,de_vries,AlphaTauri
+2024,1,437,9,max_verstappen,Red Bull
+2024,2,374,4,norris,McLaren
+2024,3,356,3,leclerc,Ferrari
+2024,4,292,2,piastri,McLaren
+2024,5,290,2,sainz,Ferrari
+2024,6,245,2,russell,Mercedes
+2024,7,223,2,hamilton,Mercedes
+2024,8,152,0,perez,Red Bull
+2024,9,70,0,alonso,Aston Martin
+2024,10,42,0,gasly,Alpine F1 Team
+2024,11,41,0,hulkenberg,Haas F1 Team
+2024,12,30,0,tsunoda,RB F1 Team
+2024,13,24,0,stroll,Aston Martin
+2024,14,23,0,ocon,Alpine F1 Team
+2024,15,16,0,kevin_magnussen,Haas F1 Team
+2024,16,12,0,albon,Williams
+2024,17,12,0,ricciardo,RB F1 Team
+2024,18,7,0,bearman,Ferrari
+2024,19,5,0,colapinto,Williams
+2024,20,4,0,zhou,Sauber
+2024,21,4,0,lawson,RB F1 Team
+2024,22,0,0,bottas,Sauber
+2024,23,0,0,sargeant,Williams
+2024,24,0,0,doohan,Alpine F1 Team
+2025,1,423,7,norris,McLaren
+2025,2,421,8,max_verstappen,Red Bull
+2025,3,410,7,piastri,McLaren
+2025,4,319,2,russell,Mercedes
+2025,5,242,0,leclerc,Ferrari
+2025,6,156,0,hamilton,Ferrari
+2025,7,150,0,antonelli,Mercedes
+2025,8,73,0,albon,Williams
+2025,9,64,0,sainz,Williams
+2025,10,56,0,alonso,Aston Martin
+2025,11,51,0,hulkenberg,Sauber
+2025,12,51,0,hadjar,RB F1 Team
+2025,13,41,0,bearman,Haas F1 Team
+2025,14,38,0,lawson,Red Bull
+2025,15,38,0,ocon,Haas F1 Team
+2025,16,33,0,stroll,Aston Martin
+2025,17,33,0,tsunoda,RB F1 Team
+2025,18,22,0,gasly,Alpine F1 Team
+2025,19,19,0,bortoleto,Sauber
+2025,20,0,0,colapinto,Alpine F1 Team
+2025,21,0,0,doohan,Alpine F1 Team
+2026,1,72,2,antonelli,Mercedes
+2026,2,63,1,russell,Mercedes
+2026,3,49,0,leclerc,Ferrari
+2026,4,41,0,hamilton,Ferrari
+2026,5,25,0,norris,McLaren
+2026,6,21,0,piastri,McLaren
+2026,7,17,0,bearman,Haas F1 Team
+2026,8,15,0,gasly,Alpine F1 Team
+2026,9,12,0,max_verstappen,Red Bull
+2026,10,10,0,lawson,RB F1 Team
+2026,11,4,0,arvid_lindblad,RB F1 Team
+2026,12,4,0,hadjar,Red Bull
+2026,13,2,0,bortoleto,Audi
+2026,14,2,0,sainz,Williams
+2026,15,1,0,ocon,Haas F1 Team
+2026,16,1,0,colapinto,Alpine F1 Team
+2026,17,0,0,hulkenberg,Audi
+2026,18,0,0,albon,Williams
+2026,19,0,0,bottas,Cadillac F1 Team
+2026,20,0,0,perez,Cadillac F1 Team
+2026,21,0,0,alonso,Aston Martin
+2026,22,0,0,stroll,Aston Martin
