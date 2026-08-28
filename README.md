@@ -6,7 +6,7 @@ Predicting a season's final standings using race results of the first half of th
 
 ## Source
 
-The standings and race results data in the csv files come from [this kaggle dataset](https://www.kaggle.com/datasets/patelris/formula-1-complete-dataset-1950-2026)
+The standings and race results data in the csv files come from [Formula 1 Complete History (1950–2026) Kaggle Dataset](https://www.kaggle.com/datasets/patelris/formula-1-complete-dataset-1950-2026) (By Rishi Patel)
 
 Since the above data contains results only for the first 3 races of 2026, the results for the next few races were queried from [Jolpica F1 API](https://api.jolpi.ca/ergast/) (Ergast successor), which is also the original source of the data in the aforementioned Kaggle dataset.
 
