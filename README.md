@@ -1,3 +1,7 @@
+# Disclaimer
+
+This project is strictly for educational, research, and data science purposes. It does not promote, facilitate, or encourage sports betting, wagering, or online money games. The predictions and models shared here are purely analytical and should not be used as financial or gambling advice. I am not liable for any damages or losses resulting from use or misuse of the model, code and data.
+
 # F1-standings-forecasting
 
 Predicting a season's final standings using race results of the first half of the season
@@ -18,6 +22,3 @@ The data is licensed under Creative Commons Attribution-NonCommercial-ShareAlike
 - Engineered features derived from the data include aggregates of driver performance for current and past seasons
 - Missing 2026 data in the kaggle dataset (Race 4 onwards) is supplemented via direct Jopica API calls
 - Top aggregate gains/loss from qualifying positions is presented in a graph
-
-## Disclaimer
-This is a personal hobby based project. I am not liable for any damages or losses resulting from use of the model code and data. Use is entirely at your own risk.
