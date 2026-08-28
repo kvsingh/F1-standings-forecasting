@@ -1,6 +1,6 @@
 # Disclaimer
 
-This project is strictly for educational, research, and data science purposes. It does not promote, facilitate, or encourage sports betting, wagering, or online money games. The predictions and models shared here are purely analytical and should not be used as financial or gambling advice. I am not liable for any damages or losses resulting from use or misuse of the model, code and data.
+This project is strictly for educational, research, and data science purposes. It does not promote, facilitate, or encourage sports betting, wagering, or online money games. The predictions and models shared here are purely analytical and should not be used as financial or gambling advice. I am not liable for any damages or losses resulting from the use or misuse of the model, code and data.
 
 # F1-standings-forecasting
 
